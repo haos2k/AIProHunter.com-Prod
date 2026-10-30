@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AIProHunter</title>
+    <link>https://aiprohunter.com/fr</link>
+    <description>AIProHunter — Découvrez les derniers produits IA, projets open-source et tendances de l&apos;IA.</description>
+    <lastBuildDate>Fri, 30 Oct 2026 13:26:32 GMT</lastBuildDate>
+    <atom:link href="https://aiprohunter.com/fr/feed.xml" rel="self" type="application/rss+xml"/>
+
+  </channel>
+</rss>

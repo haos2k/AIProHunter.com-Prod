@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>https://aiprohunter.com/zh/blog/OpenSpec/00-openspec-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenSpec/00-openspec-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenSpec/00-openspec-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenSpec/00-openspec-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenSpec/00-openspec-beginner-course" />
+<lastmod>2026-03-31T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/OpenSpec/01-why-openspec</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenSpec/01-why-openspec" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenSpec/01-why-openspec" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenSpec/01-why-openspec" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenSpec/01-why-openspec" />
+<lastmod>2026-03-31T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/OpenSpec/02-install-and-init</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenSpec/02-install-and-init" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenSpec/02-install-and-init" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenSpec/02-install-and-init" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenSpec/02-install-and-init" />
+<lastmod>2026-03-31T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/CMUX/00-cmux-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/00-cmux-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/00-cmux-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/00-cmux-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/00-cmux-beginner-course" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/00-cmux-beginner-course" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/CMUX/01-cmux-what-is-it</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/01-cmux-what-is-it" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/01-cmux-what-is-it" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/01-cmux-what-is-it" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/01-cmux-what-is-it" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/01-cmux-what-is-it" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/CMUX/02-cmux-installation-and-setup</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/02-cmux-installation-and-setup" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/02-cmux-installation-and-setup" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/02-cmux-installation-and-setup" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/02-cmux-installation-and-setup" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/02-cmux-installation-and-setup" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/CMUX/03-cmux-concepts-and-structure</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/03-cmux-concepts-and-structure" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/03-cmux-concepts-and-structure" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/03-cmux-concepts-and-structure" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/03-cmux-concepts-and-structure" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/03-cmux-concepts-and-structure" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/CMUX/04-cmux-configuration</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/04-cmux-configuration" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/04-cmux-configuration" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/04-cmux-configuration" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/04-cmux-configuration" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/04-cmux-configuration" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/CMUX/05-cmux-custom-commands</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/05-cmux-custom-commands" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/05-cmux-custom-commands" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/05-cmux-custom-commands" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/05-cmux-custom-commands" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/05-cmux-custom-commands" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/CMUX/06-cmux-real-world-workflow</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/06-cmux-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/06-cmux-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/06-cmux-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/06-cmux-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/06-cmux-real-world-workflow" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/superpowers/00-superpowers-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/superpowers/00-superpowers-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/superpowers/00-superpowers-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/superpowers/00-superpowers-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/superpowers/00-superpowers-beginner-course" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/superpowers/01-superpowers-what-and-rules</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/superpowers/01-superpowers-what-and-rules" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/superpowers/01-superpowers-what-and-rules" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/superpowers/01-superpowers-what-and-rules" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/superpowers/01-superpowers-what-and-rules" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/superpowers/02-using-superpowers-and-brainstorming</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/superpowers/02-using-superpowers-and-brainstorming" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/superpowers/02-using-superpowers-and-brainstorming" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/superpowers/02-using-superpowers-and-brainstorming" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/superpowers/02-using-superpowers-and-brainstorming" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/superpowers/03-spec-plan-and-implementation</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/superpowers/03-spec-plan-and-implementation" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/superpowers/03-spec-plan-and-implementation" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/superpowers/03-spec-plan-and-implementation" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/superpowers/03-spec-plan-and-implementation" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/superpowers/04-quality-guardrails-for-agents</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/superpowers/04-quality-guardrails-for-agents" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/superpowers/04-quality-guardrails-for-agents" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/superpowers/04-quality-guardrails-for-agents" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/superpowers/04-quality-guardrails-for-agents" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/superpowers/05-superpowers-real-world-workflows</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/superpowers/05-superpowers-real-world-workflows" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/superpowers/05-superpowers-real-world-workflows" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/superpowers/05-superpowers-real-world-workflows" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/superpowers/05-superpowers-real-world-workflows" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/OpenSpec/00-openspec-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenSpec/00-openspec-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenSpec/00-openspec-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenSpec/00-openspec-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenSpec/00-openspec-beginner-course" />
+<lastmod>2026-03-31T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/OpenSpec/01-why-openspec</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenSpec/01-why-openspec" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenSpec/01-why-openspec" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenSpec/01-why-openspec" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenSpec/01-why-openspec" />
+<lastmod>2026-03-31T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/OpenSpec/02-install-and-init</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenSpec/02-install-and-init" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenSpec/02-install-and-init" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenSpec/02-install-and-init" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenSpec/02-install-and-init" />
+<lastmod>2026-03-31T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/CMUX/00-cmux-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/00-cmux-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/00-cmux-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/00-cmux-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/00-cmux-beginner-course" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/00-cmux-beginner-course" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/CMUX/01-cmux-what-is-it</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/01-cmux-what-is-it" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/01-cmux-what-is-it" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/01-cmux-what-is-it" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/01-cmux-what-is-it" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/01-cmux-what-is-it" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/CMUX/02-cmux-installation-and-setup</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/02-cmux-installation-and-setup" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/02-cmux-installation-and-setup" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/02-cmux-installation-and-setup" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/02-cmux-installation-and-setup" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/02-cmux-installation-and-setup" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/CMUX/03-cmux-concepts-and-structure</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/03-cmux-concepts-and-structure" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/03-cmux-concepts-and-structure" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/03-cmux-concepts-and-structure" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/03-cmux-concepts-and-structure" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/03-cmux-concepts-and-structure" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/CMUX/04-cmux-configuration</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/04-cmux-configuration" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/04-cmux-configuration" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/04-cmux-configuration" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/04-cmux-configuration" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/04-cmux-configuration" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/CMUX/05-cmux-custom-commands</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/05-cmux-custom-commands" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/05-cmux-custom-commands" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/05-cmux-custom-commands" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/05-cmux-custom-commands" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/05-cmux-custom-commands" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/CMUX/06-cmux-real-world-workflow</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/06-cmux-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/06-cmux-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/06-cmux-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/06-cmux-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/06-cmux-real-world-workflow" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/superpowers/00-superpowers-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/superpowers/00-superpowers-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/superpowers/00-superpowers-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/superpowers/00-superpowers-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/superpowers/00-superpowers-beginner-course" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/superpowers/01-superpowers-what-and-rules</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/superpowers/01-superpowers-what-and-rules" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/superpowers/01-superpowers-what-and-rules" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/superpowers/01-superpowers-what-and-rules" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/superpowers/01-superpowers-what-and-rules" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/superpowers/02-using-superpowers-and-brainstorming</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/superpowers/02-using-superpowers-and-brainstorming" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/superpowers/02-using-superpowers-and-brainstorming" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/superpowers/02-using-superpowers-and-brainstorming" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/superpowers/02-using-superpowers-and-brainstorming" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/superpowers/03-spec-plan-and-implementation</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/superpowers/03-spec-plan-and-implementation" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/superpowers/03-spec-plan-and-implementation" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/superpowers/03-spec-plan-and-implementation" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/superpowers/03-spec-plan-and-implementation" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/superpowers/04-quality-guardrails-for-agents</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/superpowers/04-quality-guardrails-for-agents" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/superpowers/04-quality-guardrails-for-agents" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/superpowers/04-quality-guardrails-for-agents" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/superpowers/04-quality-guardrails-for-agents" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/superpowers/05-superpowers-real-world-workflows</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/superpowers/05-superpowers-real-world-workflows" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/superpowers/05-superpowers-real-world-workflows" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/superpowers/05-superpowers-real-world-workflows" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/superpowers/05-superpowers-real-world-workflows" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/OpenSpec/00-openspec-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenSpec/00-openspec-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenSpec/00-openspec-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenSpec/00-openspec-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenSpec/00-openspec-beginner-course" />
+<lastmod>2026-03-31T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/OpenSpec/01-why-openspec</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenSpec/01-why-openspec" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenSpec/01-why-openspec" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenSpec/01-why-openspec" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenSpec/01-why-openspec" />
+<lastmod>2026-03-31T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/OpenSpec/02-install-and-init</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenSpec/02-install-and-init" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenSpec/02-install-and-init" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenSpec/02-install-and-init" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenSpec/02-install-and-init" />
+<lastmod>2026-03-31T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/CMUX/00-cmux-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/00-cmux-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/00-cmux-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/00-cmux-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/00-cmux-beginner-course" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/00-cmux-beginner-course" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/CMUX/01-cmux-what-is-it</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/01-cmux-what-is-it" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/01-cmux-what-is-it" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/01-cmux-what-is-it" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/01-cmux-what-is-it" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/01-cmux-what-is-it" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/CMUX/02-cmux-installation-and-setup</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/02-cmux-installation-and-setup" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/02-cmux-installation-and-setup" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/02-cmux-installation-and-setup" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/02-cmux-installation-and-setup" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/02-cmux-installation-and-setup" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/CMUX/03-cmux-concepts-and-structure</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/03-cmux-concepts-and-structure" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/03-cmux-concepts-and-structure" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/03-cmux-concepts-and-structure" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/03-cmux-concepts-and-structure" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/03-cmux-concepts-and-structure" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/CMUX/04-cmux-configuration</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/04-cmux-configuration" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/04-cmux-configuration" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/04-cmux-configuration" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/04-cmux-configuration" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/04-cmux-configuration" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/CMUX/05-cmux-custom-commands</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/05-cmux-custom-commands" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/05-cmux-custom-commands" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/05-cmux-custom-commands" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/05-cmux-custom-commands" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/05-cmux-custom-commands" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/CMUX/06-cmux-real-world-workflow</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/06-cmux-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/06-cmux-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/06-cmux-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/06-cmux-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/06-cmux-real-world-workflow" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/superpowers/00-superpowers-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/superpowers/00-superpowers-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/superpowers/00-superpowers-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/superpowers/00-superpowers-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/superpowers/00-superpowers-beginner-course" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/superpowers/01-superpowers-what-and-rules</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/superpowers/01-superpowers-what-and-rules" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/superpowers/01-superpowers-what-and-rules" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/superpowers/01-superpowers-what-and-rules" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/superpowers/01-superpowers-what-and-rules" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/superpowers/02-using-superpowers-and-brainstorming</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/superpowers/02-using-superpowers-and-brainstorming" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/superpowers/02-using-superpowers-and-brainstorming" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/superpowers/02-using-superpowers-and-brainstorming" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/superpowers/02-using-superpowers-and-brainstorming" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/superpowers/03-spec-plan-and-implementation</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/superpowers/03-spec-plan-and-implementation" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/superpowers/03-spec-plan-and-implementation" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/superpowers/03-spec-plan-and-implementation" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/superpowers/03-spec-plan-and-implementation" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/superpowers/04-quality-guardrails-for-agents</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/superpowers/04-quality-guardrails-for-agents" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/superpowers/04-quality-guardrails-for-agents" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/superpowers/04-quality-guardrails-for-agents" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/superpowers/04-quality-guardrails-for-agents" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/superpowers/05-superpowers-real-world-workflows</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/superpowers/05-superpowers-real-world-workflows" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/superpowers/05-superpowers-real-world-workflows" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/superpowers/05-superpowers-real-world-workflows" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/superpowers/05-superpowers-real-world-workflows" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/ja/blog/CMUX/00-cmux-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/00-cmux-beginner-course" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/00-cmux-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/00-cmux-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/00-cmux-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/00-cmux-beginner-course" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/ja/blog/CMUX/01-cmux-what-is-it</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/01-cmux-what-is-it" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/01-cmux-what-is-it" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/01-cmux-what-is-it" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/01-cmux-what-is-it" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/01-cmux-what-is-it" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/ja/blog/CMUX/02-cmux-installation-and-setup</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/02-cmux-installation-and-setup" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/02-cmux-installation-and-setup" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/02-cmux-installation-and-setup" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/02-cmux-installation-and-setup" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/02-cmux-installation-and-setup" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/ja/blog/CMUX/03-cmux-concepts-and-structure</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/03-cmux-concepts-and-structure" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/03-cmux-concepts-and-structure" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/03-cmux-concepts-and-structure" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/03-cmux-concepts-and-structure" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/03-cmux-concepts-and-structure" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/ja/blog/CMUX/04-cmux-configuration</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/04-cmux-configuration" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/04-cmux-configuration" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/04-cmux-configuration" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/04-cmux-configuration" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/04-cmux-configuration" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/ja/blog/CMUX/05-cmux-custom-commands</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/05-cmux-custom-commands" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/05-cmux-custom-commands" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/05-cmux-custom-commands" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/05-cmux-custom-commands" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/05-cmux-custom-commands" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/ja/blog/CMUX/06-cmux-real-world-workflow</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/CMUX/06-cmux-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/CMUX/06-cmux-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/CMUX/06-cmux-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/CMUX/06-cmux-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/CMUX/06-cmux-real-world-workflow" />
+<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+</urlset>

@@ -1,0 +1,28 @@
+User-Agent: *
+Allow: /
+Disallow: /search
+Disallow: /ko/
+Disallow: /fr/
+
+User-Agent: GPTBot
+Allow: /
+
+User-Agent: ChatGPT-User
+Allow: /
+
+User-Agent: PerplexityBot
+Allow: /
+
+User-Agent: ClaudeBot
+Allow: /
+
+User-Agent: anthropic-ai
+Allow: /
+
+User-Agent: Google-Extended
+Allow: /
+
+User-Agent: CCBot
+Allow: /
+
+Sitemap: https://aiprohunter.com/sitemap.xml

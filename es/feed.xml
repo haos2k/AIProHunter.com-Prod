@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AIProHunter</title>
+    <link>https://aiprohunter.com/es</link>
+    <description>AIProHunter — Descubre los últimos productos de IA, proyectos de código abierto y tendencias de IA.</description>
+    <lastBuildDate>Fri, 30 Oct 2026 13:26:32 GMT</lastBuildDate>
+    <atom:link href="https://aiprohunter.com/es/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Curso para Principiantes de DeepTutor: 6 Artículos para Construir tu Propio Asistente de Aprendizaje IA</title>
+      <link>https://aiprohunter.com/es/blog/DeepTutor/00-deeptutor-beginner-course</link>
+      <description>DeepTutor es un asistente de aprendizaje Agent-Native de código abierto y auto-hospedable que combina memoria persistente, agentes TutorBot, cinco modos de aprendizaje y una base de conocimientos RAG. Esta serie te lleva de cero a completamente operacional.</description>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/DeepTutor/00-deeptutor-beginner-course</guid>
+    </item>
+    <item>
+      <title>¿Qué es DeepTutor? Entendiendo la Filosofía de Diseño de un Asistente de Aprendizaje Agent-Native</title>
+      <link>https://aiprohunter.com/es/blog/DeepTutor/01-what-is-deeptutor</link>
+      <description>DeepTutor es un asistente de aprendizaje personalizado Agent-Native de código abierto desarrollado por HKUDS en la Universidad de Hong Kong. Este artículo desglosa sus diferencias fundamentales respecto a ChatGPT y explica por qué la memoria persistente es el núcleo de cualquier herramienta seria de aprendizaje con IA.</description>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/DeepTutor/01-what-is-deeptutor</guid>
+    </item>
+    <item>
+      <title>Instalación y Configuración de DeepTutor: Guía Completa de Cero a Funcionando</title>
+      <link>https://aiprohunter.com/es/blog/DeepTutor/02-deeptutor-installation-setup</link>
+      <description>Una guía completa de instalación de DeepTutor que cubre tanto el despliegue con Docker como la instalación local nativa, incluyendo configuración del backend LLM, manejo de errores comunes y pasos de configuración inicial antes de tu primera sesión.</description>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/DeepTutor/02-deeptutor-installation-setup</guid>
+    </item>
+    <item>
+      <title>Los Cinco Modos de DeepTutor Explicados: Chat, Deep Solve, Quiz, Research, Math Animator</title>
+      <link>https://aiprohunter.com/es/blog/DeepTutor/03-deeptutor-five-modes</link>
+      <description>El poder de DeepTutor radica en cinco modos de aprendizaje distintos dentro de una sola interfaz. Este artículo desglosa Chat, Deep Solve, Quiz, Research y Math Animator—cuándo usar cada uno, cómo operarlos y cómo combinarlos para máximo efecto.</description>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/DeepTutor/03-deeptutor-five-modes</guid>
+    </item>
+    <item>
+      <title>TutorBot: Construye tu Tutor IA Personal con Memoria, Personalidad y Recordatorios Proactivos</title>
+      <link>https://aiprohunter.com/es/blog/DeepTutor/04-deeptutor-tutorbot</link>
+      <description>El TutorBot de DeepTutor es un agente tutor IA con personalidad y memoria aislada. Este artículo cubre cómo diseñar el estilo de enseñanza de un TutorBot, configurar recordatorios proactivos y conectarlo a Telegram, Discord y otras plataformas para que encaje naturalmente en tu ritmo de aprendizaje.</description>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/DeepTutor/04-deeptutor-tutorbot</guid>
+    </item>
+    <item>
+      <title>Base de Conocimientos + RAG de DeepTutor: Enseñando a la IA tus Datos Privados</title>
+      <link>https://aiprohunter.com/es/blog/DeepTutor/05-deeptutor-knowledge-base</link>
+      <description>La Base de Conocimientos de DeepTutor combina la indexación semántica de LightRAG para ayudar a la IA a entender genuinamente tus PDFs, notas y documentos técnicos. Este artículo cubre cómo construir una base de conocimientos, gestionar tus datos, optimizar la calidad de recuperación y sacar el máximo provecho de RAG en flujos de trabajo de aprendizaje e investigación.</description>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/DeepTutor/05-deeptutor-knowledge-base</guid>
+    </item>
+    <item>
+      <title>DeepTutor en el Mundo Real: Tres Casos de Uso para Estudiantes, Ingenieros e Investigadores</title>
+      <link>https://aiprohunter.com/es/blog/DeepTutor/06-deeptutor-real-world-use</link>
+      <description>Los primeros cinco artículos construyeron el mapa de DeepTutor. Este es la navegación. Tres usuarios de diferentes contextos—estudiantes, ingenieros e investigadores—cada uno mostrando cómo integrar los cinco modos de DeepTutor, TutorBot y la Base de Conocimientos en flujos de trabajo reales de aprendizaje y trabajo.</description>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/DeepTutor/06-deeptutor-real-world-use</guid>
+    </item>
+    <item>
+      <title>Superpowers vs. Gstack vs. GSD: Comparación Completa de Tres Herramientas para Desarrollo con IA</title>
+      <link>https://aiprohunter.com/es/blog/comparison/superpowers-vs-gstack-vs-gsd</link>
+      <description>Las tres afirman aumentar la productividad en el desarrollo asistido por IA, pero resuelven problemas fundamentalmente distintos. Este artículo explica sus propósitos centrales, los casos de uso ideales y cómo combinarlas eficazmente.</description>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/comparison/superpowers-vs-gstack-vs-gsd</guid>
+    </item>
+    <item>
+      <title>Curso Gstack para Principiantes: Convierte Claude Code en tu Equipo de Desarrollo Virtual</title>
+      <link>https://aiprohunter.com/es/blog/Gstack/00-gstack-beginner-course</link>
+      <description>Gstack es el framework de flujo de trabajo de Claude Code construido por el CEO de Y Combinator Garry Tan — no más prompts, sino una forma de poner a la IA en el modo cognitivo correcto. Esta serie te guía desde la instalación hasta escenarios de desarrollo del mundo real en seis artículos.</description>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/Gstack/00-gstack-beginner-course</guid>
+    </item>
+    <item>
+      <title>Por Qué los Asistentes de IA Necesitan &apos;Cambio de Rol&apos; — La Lógica Central de Gstack</title>
+      <link>https://aiprohunter.com/es/blog/Gstack/01-what-is-gstack</link>
+      <description>Cuando dejas que Claude maneje decisiones de producto, diseño de arquitectura y revisión de código en la misma conversación — todo sale mediocre. El concepto central de Gstack: dale a la IA el modo cognitivo correcto, no un prompt universal.</description>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/Gstack/01-what-is-gstack</guid>
+    </item>
+    <item>
+      <title>Instalación y Quick Start de Gstack: Nueve Skills en 10 Minutos</title>
+      <link>https://aiprohunter.com/es/blog/Gstack/02-gstack-installation-quickstart</link>
+      <description>Desde el git clone hasta tu primer slash command, la instalación de Gstack es más sencilla de lo que esperarías. Este artículo incluye los comandos completos, soluciones a problemas comunes y las tres cosas que deberías hacer primero después de instalar.</description>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/Gstack/02-gstack-installation-quickstart</guid>
+    </item>
+    <item>
+      <title>Plan Review Dual Mode: Pensamiento de CEO + Arquitectura de Ingeniero — Por Qué Usarlos Separadamente</title>
+      <link>https://aiprohunter.com/es/blog/Gstack/03-gstack-plan-review</link>
+      <description>El /plan-ceo-review y /plan-eng-review de Gstack son los dos skills con mayor ROI de todo el framework. Uno pregunta &apos;deberíamos construir esto&apos;, el otro pregunta &apos;cómo lo construimos correctamente&apos; — úsalos por separado para sacarles el máximo partido.</description>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/Gstack/03-gstack-plan-review</guid>
+    </item>
+    <item>
+      <title>Code Review y Ship: De la Revisión Paranoica a la Entrega con Un Solo Comando</title>
+      <link>https://aiprohunter.com/es/blog/Gstack/04-gstack-code-review-and-ship</link>
+      <description>El /review de Gstack no busca errores tipográficos — busca los problemas que pasan el CI pero explotan en producción. /ship comprime sync, test, push y PR en un solo comando. Este artículo explica qué verifica cada uno y cómo combinarlos.</description>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/Gstack/04-gstack-code-review-and-ship</guid>
+    </item>
+    <item>
+      <title>QA y Browse: Dale Ojos a la IA para que &apos;Vea&apos; Realmente tu App</title>
+      <link>https://aiprohunter.com/es/blog/Gstack/05-gstack-qa-and-browse</link>
+      <description>La mayoría de los asistentes de IA se detienen después de escribir código — no pueden ver cómo luce tu app cuando se ejecuta. El /qa y /browse de Gstack cambian eso: Chromium persistente, latencia de comando de 100-200ms, pruebas conscientes del diff y una puntuación de salud de 0-100.</description>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/Gstack/05-gstack-qa-and-browse</guid>
+    </item>
+    <item>
+      <title>Escenario de Desarrollo del Mundo Real: El Flujo de Trabajo Gstack Completo desde Nueva Funcionalidad hasta Producción</title>
+      <link>https://aiprohunter.com/es/blog/Gstack/06-gstack-real-world-workflow</link>
+      <description>Conecta todos los skills de Gstack de los cinco artículos anteriores con un escenario real: comenzando desde /plan-ceo-review y corriendo todo el camino hasta /ship. Una persona, nueve roles, un ritmo de desarrollo repetible.</description>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/Gstack/06-gstack-real-world-workflow</guid>
+    </item>
+    <item>
+      <title>Curso de Iniciación a Hermes Agent: 5 Artículos que Explican Este Agente de IA Más Avanzado que Claude Code</title>
+      <link>https://aiprohunter.com/es/blog/HermesAgent/00-hermes-agent-beginner-course</link>
+      <description>Hermes Agent de NousResearch — con un sistema de Skills, memoria persistente, programación Cron y sub-agentes paralelos. Esta es la visión general de la serie para ayudarte a orientarte y saltar directamente al artículo que necesitas.</description>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/HermesAgent/00-hermes-agent-beginner-course</guid>
+    </item>
+    <item>
+      <title>¿Qué Es Hermes Agent? Cómo Se Diferencia de Claude Code y Cursor</title>
+      <link>https://aiprohunter.com/es/blog/HermesAgent/01-hermes-agent-what-and-why</link>
+      <description>Hermes Agent de NousResearch no es solo otra herramienta de chat con IA — resuelve el problema de la capa de despliegue, la capa de memoria y la integración multiplataforma para los Agentes de IA. Este artículo te ayuda a construir la cosmovisión fundamental.</description>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/HermesAgent/01-hermes-agent-what-and-why</guid>
+    </item>
+    <item>
+      <title>Sistema de Skills de Hermes Agent: Lograr que los Agentes de IA Hagan lo Correcto en el Momento Adecuado</title>
+      <link>https://aiprohunter.com/es/blog/HermesAgent/02-hermes-agent-skills-system</link>
+      <description>Las Skills son el diseño más central de Hermes Agent — no son prompts ni plugins, sino memoria procedimental instalable, compartible y creada por el propio agente. Este artículo te lleva del concepto a la implementación.</description>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/HermesAgent/02-hermes-agent-skills-system</guid>
+    </item>
+    <item>
+      <title>Sistema de Memoria Persistente de Hermes Agent: Hacer que la IA Realmente Te Recuerde a Ti y a Tus Proyectos</title>
+      <link>https://aiprohunter.com/es/blog/HermesAgent/03-hermes-agent-memory-system</link>
+      <description>MEMORY.md y USER.md son el núcleo de la memoria de Hermes Agent — persistente entre sesiones, con límites de capacidad, gestionada activamente por el agente. Este artículo desglosa la filosofía de diseño del sistema de memoria, y qué almacenar versus qué no almacenar.</description>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/HermesAgent/03-hermes-agent-memory-system</guid>
+    </item>
+    <item>
+      <title>Automatización con Hermes Agent: Programación Cron, Sub-Agentes Paralelos y Ejecución de Código</title>
+      <link>https://aiprohunter.com/es/blog/HermesAgent/04-hermes-agent-automation</link>
+      <description>La capa más poderosa de Hermes Agent — permite que las tareas se ejecuten automáticamente a las 3am, divide grandes trabajos entre tres sub-agentes paralelos, y usa execute_code para comprimir flujos de trabajo de múltiples pasos en un solo turno de LLM.</description>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/HermesAgent/04-hermes-agent-automation</guid>
+    </item>
+    <item>
+      <title>Flujo de Trabajo Real con Hermes Agent: La Rutina Completa de un Desarrollador desde la Instalación hasta el Uso Diario</title>
+      <link>https://aiprohunter.com/es/blog/HermesAgent/05-hermes-agent-real-world-workflow</link>
+      <description>Conecta Skills, memoria y automatización a escenarios reales — generación de resúmenes diarios, revisión de código, entrega multiplataforma, y cómo Hermes y Claude Code deberían trabajar juntos.</description>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/HermesAgent/05-hermes-agent-real-world-workflow</guid>
+    </item>
+    <item>
+      <title>Curso GSD para Principiantes: 6 Artículos para que Realmente Termines las Cosas con IA</title>
+      <link>https://aiprohunter.com/es/blog/GSD/00-gsd-beginner-course</link>
+      <description>Get Shit Done (GSD) no es otro sistema de gestión del tiempo — resuelve un problema más fundamental: tienes herramientas de IA, tienes planes, tienes buenas intenciones, pero nada llega a terminarse. Esta serie explica por qué y cómo solucionarlo.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/GSD/00-gsd-beginner-course</guid>
+    </item>
+    <item>
+      <title>¿Por Qué No Puedes Terminar las Cosas Aunque Tengas IA? Un Diagnóstico del Problema GSD</title>
+      <link>https://aiprohunter.com/es/blog/GSD/01-what-is-gsd</link>
+      <description>Tienes ChatGPT, Cursor y un stack de herramientas de IA — pero tu lista de tareas sigue desbordándose y las cosas importantes siguen sin hacerse. El problema no son las herramientas. Son unos pocos puntos de ruptura de ejecución muy específicos. GSD empieza por diagnosticarlos.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/GSD/01-what-is-gsd</guid>
+    </item>
+    <item>
+      <title>Done &gt; Perfect: La Mentalidad Central de GSD, del Bloqueo de la Planificación al Movimiento Real</title>
+      <link>https://aiprohunter.com/es/blog/GSD/02-gsd-mindset</link>
+      <description>El perfeccionismo te mantiene perpetuamente preparándote para empezar. El núcleo de GSD se reduce a una cosa: una cosa completada siempre es más valiosa que un plan perfecto inacabado. Este artículo trata de resetear el umbral de &apos;suficientemente bueno&apos; en tu cabeza.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/GSD/02-gsd-mindset</guid>
+    </item>
+    <item>
+      <title>Desglosando Tareas con IA: El Proceso Completo de Requisitos Vagos a una Lista Accionable</title>
+      <link>https://aiprohunter.com/es/blog/GSD/03-ai-task-breakdown</link>
+      <description>&apos;Quiero hacer X&apos; es una intención, no una tarea. La vaguedad es el principal asesino de las tasas de finalización. Este artículo te muestra cómo usar la IA para convertir un objetivo difuso en pasos concretos que puedes empezar hoy — no una lista más larga, sino pasos siguientes más claros.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/GSD/03-ai-task-breakdown</guid>
+    </item>
+    <item>
+      <title>El Bucle de Ejecución: Diseñando el Ritmo para Mantener a tu Agente de IA en Curso</title>
+      <link>https://aiprohunter.com/es/blog/GSD/04-execution-loop</link>
+      <description>La IA es genial avanzando, pero tienes que fijar la dirección. El diseño del bucle de ejecución de GSD te da un ritmo claro de &apos;inicio&apos; a &apos;cierre&apos; — no dejar correr a la IA libremente, sino mantenerla en el camino que has fijado, para que &apos;terminado&apos; realmente signifique terminado.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/GSD/04-execution-loop</guid>
+    </item>
+    <item>
+      <title>Las 3 Trampas de GSD: Por Qué Más Planificación Lleva a Menos Finalización</title>
+      <link>https://aiprohunter.com/es/blog/GSD/05-common-traps</link>
+      <description>Hay tres patrones muy comunes que te hacen sentir que estás trabajando duro mientras que en realidad nada se termina. No son problemas de actitud — son trampas de ejecución identificables y solucionables. GSD las nombra claramente aquí.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/GSD/05-common-traps</guid>
+    </item>
+    <item>
+      <title>GSD en el Mundo Real: Guías Prácticas para Código, Escritura y Propuestas</title>
+      <link>https://aiprohunter.com/es/blog/GSD/06-real-world-gsd</link>
+      <description>¿Cómo aterriza la metodología GSD en el trabajo real? Este artículo usa tres de los tipos de tareas más comunes — codificación, escritura y preparación de propuestas — para demostrar el ritmo completo de inicio → ejecución → cierre, para que puedas aplicarlo hoy.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/GSD/06-real-world-gsd</guid>
+    </item>
+    <item>
+      <title>Curso para Principiantes de OpenAlice: Crea Tu Estudio de Trading IA Personal en 5 Artículos</title>
+      <link>https://aiprohunter.com/es/blog/OpenAlice/00-openalice-beginner-course</link>
+      <description>OpenAlice es un agente de trading IA de código abierto que integra investigación, ejecución de órdenes y automatización en uno solo. Esta serie te guía desde la instalación hasta el uso real en 5 artículos, ayudándote a construir tu propio flujo de trabajo de trading cuantitativo con IA.</description>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/OpenAlice/00-openalice-beginner-course</guid>
+    </item>
+    <item>
+      <title>¿Qué Es OpenAlice? Los Conceptos Centrales Detrás de un Estudio de Trading IA Personal</title>
+      <link>https://aiprohunter.com/es/blog/OpenAlice/01-what-is-openalice</link>
+      <description>OpenAlice es un agente de trading IA de código abierto que integra investigación de acciones, cripto y forex con trading automatizado en un solo sistema. Comprende su arquitectura central, el diseño de la Cuenta de Trading Unificada y por qué se llama a sí mismo &apos;tu Wall Street personal&apos;.</description>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/OpenAlice/01-what-is-openalice</guid>
+    </item>
+    <item>
+      <title>Instalación y Quick Start de OpenAlice: Pon Tu Agente de Trading IA en Marcha en 5 Minutos</title>
+      <link>https://aiprohunter.com/es/blog/OpenAlice/02-openalice-installation-quickstart</link>
+      <description>Guía completa de instalación de OpenAlice — desde los prerrequisitos y clonar el repositorio hasta pnpm install y tu primera conversación. Cubre la Web UI y la configuración del modo de desarrollo frontend.</description>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/OpenAlice/02-openalice-installation-quickstart</guid>
+    </item>
+    <item>
+      <title>Trading-as-Git: La Filosofía de Diseño de OpenAlice para Versionar las Decisiones de Trading</title>
+      <link>https://aiprohunter.com/es/blog/OpenAlice/03-openalice-trading-as-git</link>
+      <description>OpenAlice mapea el flujo de trading a Git: preparar órdenes en staging, hacer commit con un mensaje, push para ejecutar. Este artículo desglosa la filosofía de diseño Trading-as-Git y por qué hace las decisiones de trading más claras y auditables.</description>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/OpenAlice/03-openalice-trading-as-git</guid>
+    </item>
+    <item>
+      <title>Módulo de Investigación y Análisis de OpenAlice: Datos de Mercado Multi-Activo, Fundamentales y Noticias en Un Solo Lugar</title>
+      <link>https://aiprohunter.com/es/blog/OpenAlice/04-openalice-market-research</link>
+      <description>OpenAlice tiene integrado un motor OpenBB nativo en TypeScript, compatible con consultas de datos de acciones, cripto, forex y macro. Este artículo te guía a través de consultas de precios, indicadores técnicos, análisis fundamental y monitoreo de noticias con ejemplos de uso reales.</description>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/OpenAlice/04-openalice-market-research</guid>
+    </item>
+    <item>
+      <title>Automatización y Heartbeat de OpenAlice: Deja que la IA Monitoree el Mercado Mientras Duermes</title>
+      <link>https://aiprohunter.com/es/blog/OpenAlice/05-openalice-automation-heartbeat</link>
+      <description>La programación Cron, el monitoreo Heartbeat de mercado y los disparadores Webhook de OpenAlice transforman a la IA de un respondedor pasivo de preguntas en un centinela proactivo del mercado. Este artículo explica la arquitectura del registro de eventos y cómo configurar la IA para que solo te notifique cuando algo realmente merece atención.</description>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/OpenAlice/05-openalice-automation-heartbeat</guid>
+    </item>
+    <item>
+      <title>Curso de Iniciación al Emprendedor Minimalista: 5 Artículos para Construir un Negocio Sostenible sin Quemar Dinero</title>
+      <link>https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/00-minimalist-entrepreneur-beginner-course</link>
+      <description>Usando la metodología del Minimalist Entrepreneur de Sahil Lavingia, comienza desde la comunidad, construye lo mínimo posible, vende a través de la educación y mercadea con marca personal — un camino de cero a la rentabilidad. Perfecto para fundadores independientes, freelancers y principiantes en emprendimiento digital.</description>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/00-minimalist-entrepreneur-beginner-course</guid>
+    </item>
+    <item>
+      <title>¿Qué Es un Emprendedor Minimalista? Empieza desde la Comunidad, No desde el Producto</title>
+      <link>https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/01-what-is-minimalist-entrepreneur</link>
+      <description>El núcleo de la metodología del Minimalist Entrepreneur de Sahil Lavingia: el primer paso no es encontrar un producto — es encontrar las personas que genuinamente te importan. Aprende por qué &apos;la comunidad primero&apos; construye un negocio más sostenible que &apos;la idea primero.&apos;</description>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/01-what-is-minimalist-entrepreneur</guid>
+    </item>
+    <item>
+      <title>Construye lo Mínimo Posible — La Regla de Construcción Mínima del Emprendedor Minimalista</title>
+      <link>https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/02-minimalist-build-as-little-as-possible</link>
+      <description>MVP no es un &apos;producto recortado&apos; — es la forma más rápida de validar una hipótesis. La metodología de Construye lo Mínimo Posible de Sahil Lavingia explica por qué ejecutar un proceso manual ahorra más tiempo que escribir código primero, y cómo encontrar la solución que realmente vale la pena construir.</description>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/02-minimalist-build-as-little-as-possible</guid>
+    </item>
+    <item>
+      <title>Vende a través de la Educación — Deja que los Clientes Vengan a Ti</title>
+      <link>https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/03-minimalist-sell-through-education</link>
+      <description>Los Emprendedores Minimalistas no usan ventas basadas en persuasión — educan. El enfoque de Venta Educativa de Sahil Lavingia te enseña cómo usar conversaciones uno a uno para entender los puntos de dolor del cliente, comunicar el valor del producto y cerrar tratos sin nunca &apos;vender.&apos;</description>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/03-minimalist-sell-through-education</guid>
+    </item>
+    <item>
+      <title>Mercadea Siendo Tú Mismo — Por Qué la Marca Personal Es el Arma de Marketing Más Poderosa del Emprendedor Minimalista</title>
+      <link>https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/04-minimalist-market-by-being-you</link>
+      <description>Los Emprendedores Minimalistas no ponen anuncios ni queman presupuestos de marketing — cuentan historias. El enfoque de Mercadea Siendo Tú Mismo de Sahil Lavingia muestra por qué las luchas reales y el crecimiento son más magnéticos que una imagen de marca pulida, y cómo convertir &apos;compartir&apos; en un motor continuo de clientes.</description>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/04-minimalist-market-by-being-you</guid>
+    </item>
+    <item>
+      <title>Rentabilidad Primero — El Enfoque del Emprendedor Minimalista para Construir sin Dinero de Capital de Riesgo</title>
+      <link>https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/05-minimalist-profitability-first</link>
+      <description>La creencia central del Minimalist Entrepreneur de Sahil Lavingia: usa la rentabilidad como tu estrella del norte, no el número de usuarios ni la valuación. Aprende por qué &apos;rentabilidad primero&apos; no es solo una estrategia financiera — es una forma de libertad que significa que nunca tienes que responderle a inversores, y cómo seguir creciendo sin financiamiento externo.</description>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/05-minimalist-profitability-first</guid>
+    </item>
+    <item>
+      <title>specs, changes, artifacts: Los Tres Conceptos Fundamentales de OpenSpec</title>
+      <link>https://aiprohunter.com/es/blog/OpenSpec/03-core-concepts</link>
+      <description>Cada comando de OpenSpec trabaja en última instancia con estas tres cosas. Entiende qué son los specs, qué son los changes y qué representa cada artifact — y todo lo que sigue tendrá sentido.</description>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/OpenSpec/03-core-concepts</guid>
+    </item>
+    <item>
+      <title>/opsx:propose → apply → archive: Ejecutar un Flujo de Trabajo Completo de OpenSpec</title>
+      <link>https://aiprohunter.com/es/blog/OpenSpec/04-workflow-propose-apply-archive</link>
+      <description>Desde &apos;tengo una idea&apos; hasta &apos;implementación terminada, especificación archivada&apos; — recorre los tres comandos principales de OpenSpec, qué hace cada uno, qué necesitas verificar y cuándo avanzar.</description>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/OpenSpec/04-workflow-propose-apply-archive</guid>
+    </item>
+    <item>
+      <title>Uso en el Mundo Real: Nuevas Funcionalidades, Corrección de Bugs, Agregar OpenSpec a Proyectos Existentes</title>
+      <link>https://aiprohunter.com/es/blog/OpenSpec/05-real-world-usage</link>
+      <description>Has aprendido el flujo de trabajo — pero ¿cómo lo aplicas cuando empieza el trabajo real? Este artículo recorre los tres escenarios más comunes: desarrollo de nuevas funcionalidades, corrección de bugs y llevar OpenSpec a un proyecto legacy.</description>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/OpenSpec/05-real-world-usage</guid>
+    </item>
+    <item>
+      <title>Guía para Principiantes de OpenSpec: 5 Artículos para Dominar la Gestión de Especificaciones en el Desarrollo con IA</title>
+      <link>https://aiprohunter.com/es/blog/OpenSpec/00-openspec-beginner-course</link>
+      <description>Para todos los que siguen dando vueltas en círculos cuando le piden a la IA que escriba código — este es el índice de la serie OpenSpec, que te lleva desde &apos;¿por qué escribir especificaciones?&apos; hasta &apos;ejecutar un flujo de trabajo completo&apos;, todo en cinco artículos.</description>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/OpenSpec/00-openspec-beginner-course</guid>
+    </item>
+    <item>
+      <title>Por Qué el Desarrollo con IA Sin Especificaciones Siempre Termina Costando Más</title>
+      <link>https://aiprohunter.com/es/blog/OpenSpec/01-why-openspec</link>
+      <description>Le pides a la IA que agregue una funcionalidad, trabaja duro, pero el resultado sigue desviándose — no porque el modelo no sea suficientemente inteligente, sino porque nadie indicó claramente qué había que hacer. Este artículo explica qué problema resuelve OpenSpec.</description>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/OpenSpec/01-why-openspec</guid>
+    </item>
+    <item>
+      <title>Instalación e Inicialización de OpenSpec: 5 Minutos para Tener tu Proyecto Listo para Especificaciones</title>
+      <link>https://aiprohunter.com/es/blog/OpenSpec/02-install-and-init</link>
+      <description>Instala OpenSpec, inicializa tu proyecto y entiende la estructura de directorios — este artículo es pura acción. Una vez terminado, tu base de código puede comenzar a usar el desarrollo con IA guiado por especificaciones.</description>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/OpenSpec/02-install-and-init</guid>
+    </item>
+    <item>
+      <title>Curso de iniciación a CMUX: gestiona agentes de IA sin perder el control de tu terminal</title>
+      <link>https://aiprohunter.com/es/blog/CMUX/00-cmux-beginner-course</link>
+      <description>Para desarrolladores que acaban de conocer CMUX: una visión general de la serie que te explica qué problema resuelve, cómo aprenderlo y el orden de lectura recomendado.</description>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/CMUX/00-cmux-beginner-course</guid>
+    </item>
+    <item>
+      <title>¿Qué es CMUX? Por qué lo necesitas en la era de los múltiples agentes</title>
+      <link>https://aiprohunter.com/es/blog/CMUX/01-cmux-what-is-it</link>
+      <description>CMUX es un terminal nativo y ligero para macOS basado en Ghostty, diseñado para gestionar múltiples agentes de IA. Este artículo explica qué problema resuelve, en qué se diferencia de tmux y para quién es la herramienta adecuada.</description>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/CMUX/01-cmux-what-is-it</guid>
+    </item>
+    <item>
+      <title>Instalación de CMUX y configuración del CLI: en marcha en 10 minutos</title>
+      <link>https://aiprohunter.com/es/blog/CMUX/02-cmux-installation-and-setup</link>
+      <description>Guía completa de instalación de CMUX: elige entre DMG o Homebrew, configura el enlace simbólico del CLI, verifica la instalación y entiende el mecanismo de actualización automática.</description>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/CMUX/02-cmux-installation-and-setup</guid>
+    </item>
+    <item>
+      <title>Espacios de trabajo, paneles y pestañas: la estructura de tres capas de CMUX al completo</title>
+      <link>https://aiprohunter.com/es/blog/CMUX/03-cmux-concepts-and-structure</link>
+      <description>El núcleo de CMUX es la estructura de tres capas: espacio de trabajo (Workspace), panel (Pane) y pestaña (Surface). Comprender estas tres capas es fundamental para saber cómo asignar agentes de IA, cambiar de contexto de trabajo y entender lo que te muestra la interfaz visual de CMUX.</description>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/es/blog/CMUX/03-cmux-concepts-and-structure</guid>
+    </item>
+  </channel>
+</rss>

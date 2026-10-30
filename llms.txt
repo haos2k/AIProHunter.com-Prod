@@ -1,0 +1,39 @@
+# AIProHunter
+
+> AI 工具教學與實戰指南。涵蓋 Claude Code 生態系、AI Agent 框架、開源量化交易、AI 生產力工具等主題。Tutorials and hands-on guides for AI tools, Claude Code ecosystem, AI Agent frameworks, and open-source quant trading.
+
+## 教學系列（中文）
+
+- [CMUX 教學系列](https://aiprohunter.com/zh/blog/CMUX/00-cmux-beginner-course): Claude Code 多工管理工具完整教學
+- [Gstack 教學系列](https://aiprohunter.com/zh/blog/Gstack/00-gstack-beginner-course): AI Agent 開發堆疊框架教學
+- [ClaudeSquad 教學系列](https://aiprohunter.com/zh/blog/ClaudeSquad/00-claudesquad-beginner-course): 多 Agent 協作開發教學
+- [CCManager 教學系列](https://aiprohunter.com/zh/blog/CCManager/00-ccmanager-beginner-course): Claude Code 實例管理器教學
+- [Superpowers 教學系列](https://aiprohunter.com/zh/blog/superpowers/00-superpowers-beginner-course): Claude Code Skills 系統教學
+- [OpenAlice 教學系列](https://aiprohunter.com/zh/blog/OpenAlice/00-openalice-beginner-course): 開源量化交易 AI Agent
+- [DeepTutor 教學系列](https://aiprohunter.com/zh/blog/DeepTutor/00-deeptutor-beginner-course): AI 個人化學習系統
+- [DeepAgent 教學系列](https://aiprohunter.com/zh/blog/DeepAgent/00-deepagents-beginner-course): 深度 AI Agent 架構
+- [GSD 教學系列](https://aiprohunter.com/zh/blog/GSD/00-gsd-beginner-course): AI 生產力框架
+- [HermesAgent 教學系列](https://aiprohunter.com/zh/blog/HermesAgent/00-hermes-agent-beginner-course): Hermes AI Agent 框架
+- [OpenSpec 教學系列](https://aiprohunter.com/zh/blog/OpenSpec/01-why-openspec): 開源規格文件工具
+- [Minimalist Entrepreneur 系列](https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/01-what-is-minimalist-entrepreneur): 極簡創業方法論
+
+## Tutorial Series (English)
+
+- [CMUX Tutorial](https://aiprohunter.com/en/blog/CMUX/00-cmux-beginner-course): Claude Code multiplexer setup guide
+- [Gstack Tutorial](https://aiprohunter.com/en/blog/Gstack/00-gstack-beginner-course): AI Agent development stack framework
+- [ClaudeSquad Tutorial](https://aiprohunter.com/en/blog/ClaudeSquad/00-claudesquad-beginner-course): Multi-agent collaboration development
+- [CCManager Tutorial](https://aiprohunter.com/en/blog/CCManager/00-ccmanager-beginner-course): Claude Code instance manager
+- [Superpowers Tutorial](https://aiprohunter.com/en/blog/superpowers/00-superpowers-beginner-course): Claude Code Skills system
+- [OpenAlice Tutorial](https://aiprohunter.com/en/blog/OpenAlice/00-openalice-beginner-course): Open-source quant trading AI Agent
+- [DeepTutor Tutorial](https://aiprohunter.com/en/blog/DeepTutor/00-deeptutor-beginner-course): AI personalized learning system
+- [DeepAgent Tutorial](https://aiprohunter.com/en/blog/DeepAgent/00-deepagents-beginner-course): Deep AI Agent architecture
+- [GSD Tutorial](https://aiprohunter.com/en/blog/GSD/00-gsd-beginner-course): AI productivity framework
+- [HermesAgent Tutorial](https://aiprohunter.com/en/blog/HermesAgent/00-hermes-agent-beginner-course): Hermes AI Agent framework
+- [OpenSpec Tutorial](https://aiprohunter.com/en/blog/OpenSpec/01-why-openspec): Open-source spec document tool
+- [Minimalist Entrepreneur](https://aiprohunter.com/en/blog/Minimalist-Entrepreneur/01-what-is-minimalist-entrepreneur): Minimalist entrepreneurship methodology
+
+## Optional
+
+- [Blog 中文](https://aiprohunter.com/zh/blog): 所有中文文章列表
+- [Blog English](https://aiprohunter.com/en/blog): All English articles
+- [About](https://aiprohunter.com/zh/about): 關於 AIProHunter

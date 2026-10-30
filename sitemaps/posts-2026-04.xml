@@ -1,0 +1,1753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>https://aiprohunter.com/zh/blog/DeepAgent/00-deepagents-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepAgent/00-deepagents-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepAgent/00-deepagents-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepAgent/00-deepagents-beginner-course" />
+<lastmod>2026-04-24T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/DeepAgent/01-what-is-deepagents</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepAgent/01-what-is-deepagents" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepAgent/01-what-is-deepagents" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepAgent/01-what-is-deepagents" />
+<lastmod>2026-04-24T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/DeepAgent/02-quickstart</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepAgent/02-quickstart" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepAgent/02-quickstart" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepAgent/02-quickstart" />
+<lastmod>2026-04-24T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/DeepAgent/03-task-planning-write-todos</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepAgent/03-task-planning-write-todos" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepAgent/03-task-planning-write-todos" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepAgent/03-task-planning-write-todos" />
+<lastmod>2026-04-24T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/DeepAgent/04-filesystem-context-management</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepAgent/04-filesystem-context-management" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepAgent/04-filesystem-context-management" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepAgent/04-filesystem-context-management" />
+<lastmod>2026-04-24T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/DeepAgent/05-pluggable-backends</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepAgent/05-pluggable-backends" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepAgent/05-pluggable-backends" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepAgent/05-pluggable-backends" />
+<lastmod>2026-04-24T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/DeepAgent/06-subagents-task-tool</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepAgent/06-subagents-task-tool" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepAgent/06-subagents-task-tool" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepAgent/06-subagents-task-tool" />
+<lastmod>2026-04-24T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/DeepAgent/07-long-term-memory</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepAgent/07-long-term-memory" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepAgent/07-long-term-memory" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepAgent/07-long-term-memory" />
+<lastmod>2026-04-24T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/DeepAgent/08-skills-customization</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepAgent/08-skills-customization" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepAgent/08-skills-customization" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepAgent/08-skills-customization" />
+<lastmod>2026-04-24T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/DeepAgent/09-deepagents-cli</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepAgent/09-deepagents-cli" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepAgent/09-deepagents-cli" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepAgent/09-deepagents-cli" />
+<lastmod>2026-04-24T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/DeepTutor/00-deeptutor-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepTutor/00-deeptutor-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepTutor/00-deeptutor-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepTutor/00-deeptutor-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/DeepTutor/00-deeptutor-beginner-course" />
+<lastmod>2026-04-20T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/DeepTutor/01-what-is-deeptutor</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepTutor/01-what-is-deeptutor" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepTutor/01-what-is-deeptutor" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepTutor/01-what-is-deeptutor" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/DeepTutor/01-what-is-deeptutor" />
+<lastmod>2026-04-20T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/DeepTutor/02-deeptutor-installation-setup</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepTutor/02-deeptutor-installation-setup" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepTutor/02-deeptutor-installation-setup" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepTutor/02-deeptutor-installation-setup" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/DeepTutor/02-deeptutor-installation-setup" />
+<lastmod>2026-04-20T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/DeepTutor/03-deeptutor-five-modes</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepTutor/03-deeptutor-five-modes" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepTutor/03-deeptutor-five-modes" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepTutor/03-deeptutor-five-modes" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/DeepTutor/03-deeptutor-five-modes" />
+<lastmod>2026-04-20T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/DeepTutor/04-deeptutor-tutorbot</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepTutor/04-deeptutor-tutorbot" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepTutor/04-deeptutor-tutorbot" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepTutor/04-deeptutor-tutorbot" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/DeepTutor/04-deeptutor-tutorbot" />
+<lastmod>2026-04-20T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/DeepTutor/05-deeptutor-knowledge-base</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepTutor/05-deeptutor-knowledge-base" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepTutor/05-deeptutor-knowledge-base" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepTutor/05-deeptutor-knowledge-base" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/DeepTutor/05-deeptutor-knowledge-base" />
+<lastmod>2026-04-20T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/DeepTutor/06-deeptutor-real-world-use</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepTutor/06-deeptutor-real-world-use" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepTutor/06-deeptutor-real-world-use" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepTutor/06-deeptutor-real-world-use" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/DeepTutor/06-deeptutor-real-world-use" />
+<lastmod>2026-04-20T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/comparison/superpowers-vs-gstack-vs-gsd</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/comparison/superpowers-vs-gstack-vs-gsd" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/comparison/superpowers-vs-gstack-vs-gsd" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/comparison/superpowers-vs-gstack-vs-gsd" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/comparison/superpowers-vs-gstack-vs-gsd" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/Gstack/00-gstack-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/00-gstack-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/00-gstack-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/00-gstack-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/00-gstack-beginner-course" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/00-gstack-beginner-course" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/Gstack/01-what-is-gstack</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/01-what-is-gstack" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/01-what-is-gstack" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/01-what-is-gstack" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/01-what-is-gstack" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/01-what-is-gstack" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/Gstack/02-gstack-installation-quickstart</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/02-gstack-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/02-gstack-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/02-gstack-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/02-gstack-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/02-gstack-installation-quickstart" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/Gstack/03-gstack-plan-review</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/03-gstack-plan-review" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/03-gstack-plan-review" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/03-gstack-plan-review" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/03-gstack-plan-review" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/03-gstack-plan-review" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/Gstack/04-gstack-code-review-and-ship</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/04-gstack-code-review-and-ship" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/04-gstack-code-review-and-ship" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/04-gstack-code-review-and-ship" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/04-gstack-code-review-and-ship" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/04-gstack-code-review-and-ship" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/Gstack/05-gstack-qa-and-browse</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/05-gstack-qa-and-browse" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/05-gstack-qa-and-browse" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/05-gstack-qa-and-browse" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/05-gstack-qa-and-browse" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/05-gstack-qa-and-browse" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/Gstack/06-gstack-real-world-workflow</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/06-gstack-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/06-gstack-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/06-gstack-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/06-gstack-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/06-gstack-real-world-workflow" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/HermesAgent/00-hermes-agent-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/HermesAgent/00-hermes-agent-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/HermesAgent/00-hermes-agent-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/HermesAgent/00-hermes-agent-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/HermesAgent/00-hermes-agent-beginner-course" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/HermesAgent/01-hermes-agent-what-and-why</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/HermesAgent/01-hermes-agent-what-and-why" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/HermesAgent/01-hermes-agent-what-and-why" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/HermesAgent/01-hermes-agent-what-and-why" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/HermesAgent/01-hermes-agent-what-and-why" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/HermesAgent/02-hermes-agent-skills-system</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/HermesAgent/02-hermes-agent-skills-system" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/HermesAgent/02-hermes-agent-skills-system" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/HermesAgent/02-hermes-agent-skills-system" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/HermesAgent/02-hermes-agent-skills-system" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/HermesAgent/03-hermes-agent-memory-system</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/HermesAgent/03-hermes-agent-memory-system" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/HermesAgent/03-hermes-agent-memory-system" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/HermesAgent/03-hermes-agent-memory-system" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/HermesAgent/03-hermes-agent-memory-system" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/HermesAgent/04-hermes-agent-automation</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/HermesAgent/04-hermes-agent-automation" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/HermesAgent/04-hermes-agent-automation" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/HermesAgent/04-hermes-agent-automation" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/HermesAgent/04-hermes-agent-automation" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/HermesAgent/05-hermes-agent-real-world-workflow</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/HermesAgent/05-hermes-agent-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/HermesAgent/05-hermes-agent-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/HermesAgent/05-hermes-agent-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/HermesAgent/05-hermes-agent-real-world-workflow" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/GSD/00-gsd-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/00-gsd-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/00-gsd-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/00-gsd-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/00-gsd-beginner-course" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/00-gsd-beginner-course" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/GSD/01-what-is-gsd</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/01-what-is-gsd" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/01-what-is-gsd" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/01-what-is-gsd" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/01-what-is-gsd" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/01-what-is-gsd" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/GSD/02-gsd-mindset</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/02-gsd-mindset" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/02-gsd-mindset" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/02-gsd-mindset" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/02-gsd-mindset" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/02-gsd-mindset" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/GSD/03-ai-task-breakdown</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/03-ai-task-breakdown" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/03-ai-task-breakdown" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/03-ai-task-breakdown" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/03-ai-task-breakdown" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/03-ai-task-breakdown" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/GSD/04-execution-loop</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/04-execution-loop" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/04-execution-loop" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/04-execution-loop" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/04-execution-loop" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/04-execution-loop" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/GSD/05-common-traps</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/05-common-traps" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/05-common-traps" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/05-common-traps" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/05-common-traps" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/05-common-traps" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/GSD/06-real-world-gsd</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/06-real-world-gsd" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/06-real-world-gsd" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/06-real-world-gsd" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/06-real-world-gsd" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/06-real-world-gsd" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/OpenAlice/00-openalice-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenAlice/00-openalice-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenAlice/00-openalice-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenAlice/00-openalice-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenAlice/00-openalice-beginner-course" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/OpenAlice/00-openalice-beginner-course" />
+<lastmod>2026-04-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/OpenAlice/01-what-is-openalice</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenAlice/01-what-is-openalice" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenAlice/01-what-is-openalice" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenAlice/01-what-is-openalice" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenAlice/01-what-is-openalice" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/OpenAlice/01-what-is-openalice" />
+<lastmod>2026-04-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/OpenAlice/02-openalice-installation-quickstart</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenAlice/02-openalice-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenAlice/02-openalice-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenAlice/02-openalice-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenAlice/02-openalice-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/OpenAlice/02-openalice-installation-quickstart" />
+<lastmod>2026-04-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/OpenAlice/03-openalice-trading-as-git</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenAlice/03-openalice-trading-as-git" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenAlice/03-openalice-trading-as-git" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenAlice/03-openalice-trading-as-git" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenAlice/03-openalice-trading-as-git" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/OpenAlice/03-openalice-trading-as-git" />
+<lastmod>2026-04-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/OpenAlice/04-openalice-market-research</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenAlice/04-openalice-market-research" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenAlice/04-openalice-market-research" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenAlice/04-openalice-market-research" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenAlice/04-openalice-market-research" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/OpenAlice/04-openalice-market-research" />
+<lastmod>2026-04-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/OpenAlice/05-openalice-automation-heartbeat</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenAlice/05-openalice-automation-heartbeat" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenAlice/05-openalice-automation-heartbeat" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenAlice/05-openalice-automation-heartbeat" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenAlice/05-openalice-automation-heartbeat" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/OpenAlice/05-openalice-automation-heartbeat" />
+<lastmod>2026-04-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/00-minimalist-entrepreneur-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/00-minimalist-entrepreneur-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/00-minimalist-entrepreneur-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Minimalist-Entrepreneur/00-minimalist-entrepreneur-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/00-minimalist-entrepreneur-beginner-course" />
+<lastmod>2026-04-14T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/01-what-is-minimalist-entrepreneur</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/01-what-is-minimalist-entrepreneur" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/01-what-is-minimalist-entrepreneur" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Minimalist-Entrepreneur/01-what-is-minimalist-entrepreneur" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/01-what-is-minimalist-entrepreneur" />
+<lastmod>2026-04-14T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/02-minimalist-build-as-little-as-possible</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/02-minimalist-build-as-little-as-possible" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/02-minimalist-build-as-little-as-possible" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Minimalist-Entrepreneur/02-minimalist-build-as-little-as-possible" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/02-minimalist-build-as-little-as-possible" />
+<lastmod>2026-04-14T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/03-minimalist-sell-through-education</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/03-minimalist-sell-through-education" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/03-minimalist-sell-through-education" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Minimalist-Entrepreneur/03-minimalist-sell-through-education" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/03-minimalist-sell-through-education" />
+<lastmod>2026-04-14T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/04-minimalist-market-by-being-you</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/04-minimalist-market-by-being-you" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/04-minimalist-market-by-being-you" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Minimalist-Entrepreneur/04-minimalist-market-by-being-you" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/04-minimalist-market-by-being-you" />
+<lastmod>2026-04-14T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/05-minimalist-profitability-first</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/05-minimalist-profitability-first" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/05-minimalist-profitability-first" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Minimalist-Entrepreneur/05-minimalist-profitability-first" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/05-minimalist-profitability-first" />
+<lastmod>2026-04-14T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/OpenSpec/03-core-concepts</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenSpec/03-core-concepts" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenSpec/03-core-concepts" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenSpec/03-core-concepts" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenSpec/03-core-concepts" />
+<lastmod>2026-04-01T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/OpenSpec/04-workflow-propose-apply-archive</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenSpec/04-workflow-propose-apply-archive" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenSpec/04-workflow-propose-apply-archive" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenSpec/04-workflow-propose-apply-archive" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenSpec/04-workflow-propose-apply-archive" />
+<lastmod>2026-04-01T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/OpenSpec/05-real-world-usage</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenSpec/05-real-world-usage" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenSpec/05-real-world-usage" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenSpec/05-real-world-usage" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenSpec/05-real-world-usage" />
+<lastmod>2026-04-01T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/DeepAgent/00-deepagents-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepAgent/00-deepagents-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepAgent/00-deepagents-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepAgent/00-deepagents-beginner-course" />
+<lastmod>2026-04-24T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/DeepAgent/01-what-is-deepagents</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepAgent/01-what-is-deepagents" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepAgent/01-what-is-deepagents" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepAgent/01-what-is-deepagents" />
+<lastmod>2026-04-24T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/DeepAgent/02-quickstart</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepAgent/02-quickstart" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepAgent/02-quickstart" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepAgent/02-quickstart" />
+<lastmod>2026-04-24T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/DeepAgent/03-task-planning-write-todos</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepAgent/03-task-planning-write-todos" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepAgent/03-task-planning-write-todos" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepAgent/03-task-planning-write-todos" />
+<lastmod>2026-04-24T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/DeepAgent/04-filesystem-context-management</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepAgent/04-filesystem-context-management" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepAgent/04-filesystem-context-management" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepAgent/04-filesystem-context-management" />
+<lastmod>2026-04-24T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/DeepAgent/05-pluggable-backends</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepAgent/05-pluggable-backends" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepAgent/05-pluggable-backends" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepAgent/05-pluggable-backends" />
+<lastmod>2026-04-24T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/DeepAgent/06-subagents-task-tool</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepAgent/06-subagents-task-tool" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepAgent/06-subagents-task-tool" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepAgent/06-subagents-task-tool" />
+<lastmod>2026-04-24T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/DeepAgent/07-long-term-memory</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepAgent/07-long-term-memory" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepAgent/07-long-term-memory" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepAgent/07-long-term-memory" />
+<lastmod>2026-04-24T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/DeepAgent/08-skills-customization</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepAgent/08-skills-customization" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepAgent/08-skills-customization" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepAgent/08-skills-customization" />
+<lastmod>2026-04-24T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/DeepAgent/09-deepagents-cli</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepAgent/09-deepagents-cli" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepAgent/09-deepagents-cli" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepAgent/09-deepagents-cli" />
+<lastmod>2026-04-24T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/DeepTutor/00-deeptutor-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepTutor/00-deeptutor-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepTutor/00-deeptutor-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepTutor/00-deeptutor-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/DeepTutor/00-deeptutor-beginner-course" />
+<lastmod>2026-04-20T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/DeepTutor/01-what-is-deeptutor</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepTutor/01-what-is-deeptutor" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepTutor/01-what-is-deeptutor" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepTutor/01-what-is-deeptutor" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/DeepTutor/01-what-is-deeptutor" />
+<lastmod>2026-04-20T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/DeepTutor/02-deeptutor-installation-setup</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepTutor/02-deeptutor-installation-setup" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepTutor/02-deeptutor-installation-setup" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepTutor/02-deeptutor-installation-setup" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/DeepTutor/02-deeptutor-installation-setup" />
+<lastmod>2026-04-20T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/DeepTutor/03-deeptutor-five-modes</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepTutor/03-deeptutor-five-modes" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepTutor/03-deeptutor-five-modes" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepTutor/03-deeptutor-five-modes" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/DeepTutor/03-deeptutor-five-modes" />
+<lastmod>2026-04-20T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/DeepTutor/04-deeptutor-tutorbot</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepTutor/04-deeptutor-tutorbot" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepTutor/04-deeptutor-tutorbot" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepTutor/04-deeptutor-tutorbot" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/DeepTutor/04-deeptutor-tutorbot" />
+<lastmod>2026-04-20T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/DeepTutor/05-deeptutor-knowledge-base</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepTutor/05-deeptutor-knowledge-base" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepTutor/05-deeptutor-knowledge-base" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepTutor/05-deeptutor-knowledge-base" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/DeepTutor/05-deeptutor-knowledge-base" />
+<lastmod>2026-04-20T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/DeepTutor/06-deeptutor-real-world-use</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepTutor/06-deeptutor-real-world-use" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepTutor/06-deeptutor-real-world-use" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepTutor/06-deeptutor-real-world-use" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/DeepTutor/06-deeptutor-real-world-use" />
+<lastmod>2026-04-20T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/comparison/superpowers-vs-gstack-vs-gsd</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/comparison/superpowers-vs-gstack-vs-gsd" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/comparison/superpowers-vs-gstack-vs-gsd" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/comparison/superpowers-vs-gstack-vs-gsd" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/comparison/superpowers-vs-gstack-vs-gsd" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/Gstack/00-gstack-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/00-gstack-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/00-gstack-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/00-gstack-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/00-gstack-beginner-course" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/00-gstack-beginner-course" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/Gstack/01-what-is-gstack</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/01-what-is-gstack" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/01-what-is-gstack" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/01-what-is-gstack" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/01-what-is-gstack" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/01-what-is-gstack" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/Gstack/02-gstack-installation-quickstart</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/02-gstack-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/02-gstack-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/02-gstack-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/02-gstack-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/02-gstack-installation-quickstart" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/Gstack/03-gstack-plan-review</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/03-gstack-plan-review" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/03-gstack-plan-review" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/03-gstack-plan-review" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/03-gstack-plan-review" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/03-gstack-plan-review" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/Gstack/04-gstack-code-review-and-ship</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/04-gstack-code-review-and-ship" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/04-gstack-code-review-and-ship" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/04-gstack-code-review-and-ship" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/04-gstack-code-review-and-ship" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/04-gstack-code-review-and-ship" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/Gstack/05-gstack-qa-and-browse</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/05-gstack-qa-and-browse" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/05-gstack-qa-and-browse" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/05-gstack-qa-and-browse" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/05-gstack-qa-and-browse" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/05-gstack-qa-and-browse" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/Gstack/06-gstack-real-world-workflow</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/06-gstack-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/06-gstack-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/06-gstack-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/06-gstack-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/06-gstack-real-world-workflow" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/HermesAgent/00-hermes-agent-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/HermesAgent/00-hermes-agent-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/HermesAgent/00-hermes-agent-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/HermesAgent/00-hermes-agent-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/HermesAgent/00-hermes-agent-beginner-course" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/HermesAgent/01-hermes-agent-what-and-why</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/HermesAgent/01-hermes-agent-what-and-why" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/HermesAgent/01-hermes-agent-what-and-why" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/HermesAgent/01-hermes-agent-what-and-why" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/HermesAgent/01-hermes-agent-what-and-why" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/HermesAgent/02-hermes-agent-skills-system</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/HermesAgent/02-hermes-agent-skills-system" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/HermesAgent/02-hermes-agent-skills-system" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/HermesAgent/02-hermes-agent-skills-system" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/HermesAgent/02-hermes-agent-skills-system" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/HermesAgent/03-hermes-agent-memory-system</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/HermesAgent/03-hermes-agent-memory-system" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/HermesAgent/03-hermes-agent-memory-system" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/HermesAgent/03-hermes-agent-memory-system" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/HermesAgent/03-hermes-agent-memory-system" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/HermesAgent/04-hermes-agent-automation</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/HermesAgent/04-hermes-agent-automation" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/HermesAgent/04-hermes-agent-automation" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/HermesAgent/04-hermes-agent-automation" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/HermesAgent/04-hermes-agent-automation" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/HermesAgent/05-hermes-agent-real-world-workflow</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/HermesAgent/05-hermes-agent-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/HermesAgent/05-hermes-agent-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/HermesAgent/05-hermes-agent-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/HermesAgent/05-hermes-agent-real-world-workflow" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/GSD/00-gsd-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/00-gsd-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/00-gsd-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/00-gsd-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/00-gsd-beginner-course" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/00-gsd-beginner-course" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/GSD/01-what-is-gsd</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/01-what-is-gsd" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/01-what-is-gsd" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/01-what-is-gsd" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/01-what-is-gsd" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/01-what-is-gsd" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/GSD/02-gsd-mindset</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/02-gsd-mindset" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/02-gsd-mindset" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/02-gsd-mindset" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/02-gsd-mindset" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/02-gsd-mindset" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/GSD/03-ai-task-breakdown</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/03-ai-task-breakdown" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/03-ai-task-breakdown" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/03-ai-task-breakdown" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/03-ai-task-breakdown" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/03-ai-task-breakdown" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/GSD/04-execution-loop</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/04-execution-loop" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/04-execution-loop" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/04-execution-loop" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/04-execution-loop" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/04-execution-loop" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/GSD/05-common-traps</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/05-common-traps" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/05-common-traps" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/05-common-traps" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/05-common-traps" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/05-common-traps" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/GSD/06-real-world-gsd</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/06-real-world-gsd" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/06-real-world-gsd" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/06-real-world-gsd" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/06-real-world-gsd" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/06-real-world-gsd" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/OpenAlice/00-openalice-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenAlice/00-openalice-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenAlice/00-openalice-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenAlice/00-openalice-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenAlice/00-openalice-beginner-course" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/OpenAlice/00-openalice-beginner-course" />
+<lastmod>2026-04-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/OpenAlice/01-what-is-openalice</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenAlice/01-what-is-openalice" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenAlice/01-what-is-openalice" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenAlice/01-what-is-openalice" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenAlice/01-what-is-openalice" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/OpenAlice/01-what-is-openalice" />
+<lastmod>2026-04-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/OpenAlice/02-openalice-installation-quickstart</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenAlice/02-openalice-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenAlice/02-openalice-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenAlice/02-openalice-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenAlice/02-openalice-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/OpenAlice/02-openalice-installation-quickstart" />
+<lastmod>2026-04-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/OpenAlice/03-openalice-trading-as-git</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenAlice/03-openalice-trading-as-git" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenAlice/03-openalice-trading-as-git" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenAlice/03-openalice-trading-as-git" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenAlice/03-openalice-trading-as-git" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/OpenAlice/03-openalice-trading-as-git" />
+<lastmod>2026-04-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/OpenAlice/04-openalice-market-research</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenAlice/04-openalice-market-research" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenAlice/04-openalice-market-research" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenAlice/04-openalice-market-research" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenAlice/04-openalice-market-research" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/OpenAlice/04-openalice-market-research" />
+<lastmod>2026-04-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/OpenAlice/05-openalice-automation-heartbeat</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenAlice/05-openalice-automation-heartbeat" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenAlice/05-openalice-automation-heartbeat" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenAlice/05-openalice-automation-heartbeat" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenAlice/05-openalice-automation-heartbeat" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/OpenAlice/05-openalice-automation-heartbeat" />
+<lastmod>2026-04-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/Minimalist-Entrepreneur/00-minimalist-entrepreneur-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/00-minimalist-entrepreneur-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Minimalist-Entrepreneur/00-minimalist-entrepreneur-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/00-minimalist-entrepreneur-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/00-minimalist-entrepreneur-beginner-course" />
+<lastmod>2026-04-14T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/Minimalist-Entrepreneur/01-what-is-minimalist-entrepreneur</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/01-what-is-minimalist-entrepreneur" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Minimalist-Entrepreneur/01-what-is-minimalist-entrepreneur" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/01-what-is-minimalist-entrepreneur" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/01-what-is-minimalist-entrepreneur" />
+<lastmod>2026-04-14T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/Minimalist-Entrepreneur/02-minimalist-build-as-little-as-possible</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/02-minimalist-build-as-little-as-possible" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Minimalist-Entrepreneur/02-minimalist-build-as-little-as-possible" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/02-minimalist-build-as-little-as-possible" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/02-minimalist-build-as-little-as-possible" />
+<lastmod>2026-04-14T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/Minimalist-Entrepreneur/03-minimalist-sell-through-education</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/03-minimalist-sell-through-education" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Minimalist-Entrepreneur/03-minimalist-sell-through-education" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/03-minimalist-sell-through-education" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/03-minimalist-sell-through-education" />
+<lastmod>2026-04-14T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/Minimalist-Entrepreneur/04-minimalist-market-by-being-you</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/04-minimalist-market-by-being-you" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Minimalist-Entrepreneur/04-minimalist-market-by-being-you" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/04-minimalist-market-by-being-you" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/04-minimalist-market-by-being-you" />
+<lastmod>2026-04-14T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/Minimalist-Entrepreneur/05-minimalist-profitability-first</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/05-minimalist-profitability-first" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Minimalist-Entrepreneur/05-minimalist-profitability-first" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/05-minimalist-profitability-first" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/05-minimalist-profitability-first" />
+<lastmod>2026-04-14T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/OpenSpec/03-core-concepts</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenSpec/03-core-concepts" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenSpec/03-core-concepts" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenSpec/03-core-concepts" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenSpec/03-core-concepts" />
+<lastmod>2026-04-01T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/OpenSpec/04-workflow-propose-apply-archive</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenSpec/04-workflow-propose-apply-archive" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenSpec/04-workflow-propose-apply-archive" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenSpec/04-workflow-propose-apply-archive" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenSpec/04-workflow-propose-apply-archive" />
+<lastmod>2026-04-01T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/en/blog/OpenSpec/05-real-world-usage</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenSpec/05-real-world-usage" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenSpec/05-real-world-usage" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenSpec/05-real-world-usage" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenSpec/05-real-world-usage" />
+<lastmod>2026-04-01T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/DeepTutor/00-deeptutor-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepTutor/00-deeptutor-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/DeepTutor/00-deeptutor-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepTutor/00-deeptutor-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepTutor/00-deeptutor-beginner-course" />
+<lastmod>2026-04-20T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/DeepTutor/01-what-is-deeptutor</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepTutor/01-what-is-deeptutor" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/DeepTutor/01-what-is-deeptutor" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepTutor/01-what-is-deeptutor" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepTutor/01-what-is-deeptutor" />
+<lastmod>2026-04-20T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/DeepTutor/02-deeptutor-installation-setup</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepTutor/02-deeptutor-installation-setup" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/DeepTutor/02-deeptutor-installation-setup" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepTutor/02-deeptutor-installation-setup" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepTutor/02-deeptutor-installation-setup" />
+<lastmod>2026-04-20T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/DeepTutor/03-deeptutor-five-modes</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepTutor/03-deeptutor-five-modes" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/DeepTutor/03-deeptutor-five-modes" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepTutor/03-deeptutor-five-modes" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepTutor/03-deeptutor-five-modes" />
+<lastmod>2026-04-20T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/DeepTutor/04-deeptutor-tutorbot</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepTutor/04-deeptutor-tutorbot" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/DeepTutor/04-deeptutor-tutorbot" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepTutor/04-deeptutor-tutorbot" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepTutor/04-deeptutor-tutorbot" />
+<lastmod>2026-04-20T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/DeepTutor/05-deeptutor-knowledge-base</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepTutor/05-deeptutor-knowledge-base" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/DeepTutor/05-deeptutor-knowledge-base" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepTutor/05-deeptutor-knowledge-base" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepTutor/05-deeptutor-knowledge-base" />
+<lastmod>2026-04-20T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/DeepTutor/06-deeptutor-real-world-use</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/DeepTutor/06-deeptutor-real-world-use" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/DeepTutor/06-deeptutor-real-world-use" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/DeepTutor/06-deeptutor-real-world-use" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/DeepTutor/06-deeptutor-real-world-use" />
+<lastmod>2026-04-20T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/comparison/superpowers-vs-gstack-vs-gsd</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/comparison/superpowers-vs-gstack-vs-gsd" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/comparison/superpowers-vs-gstack-vs-gsd" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/comparison/superpowers-vs-gstack-vs-gsd" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/comparison/superpowers-vs-gstack-vs-gsd" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/Gstack/00-gstack-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/00-gstack-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/00-gstack-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/00-gstack-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/00-gstack-beginner-course" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/00-gstack-beginner-course" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/Gstack/01-what-is-gstack</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/01-what-is-gstack" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/01-what-is-gstack" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/01-what-is-gstack" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/01-what-is-gstack" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/01-what-is-gstack" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/Gstack/02-gstack-installation-quickstart</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/02-gstack-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/02-gstack-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/02-gstack-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/02-gstack-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/02-gstack-installation-quickstart" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/Gstack/03-gstack-plan-review</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/03-gstack-plan-review" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/03-gstack-plan-review" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/03-gstack-plan-review" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/03-gstack-plan-review" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/03-gstack-plan-review" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/Gstack/04-gstack-code-review-and-ship</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/04-gstack-code-review-and-ship" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/04-gstack-code-review-and-ship" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/04-gstack-code-review-and-ship" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/04-gstack-code-review-and-ship" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/04-gstack-code-review-and-ship" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/Gstack/05-gstack-qa-and-browse</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/05-gstack-qa-and-browse" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/05-gstack-qa-and-browse" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/05-gstack-qa-and-browse" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/05-gstack-qa-and-browse" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/05-gstack-qa-and-browse" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/Gstack/06-gstack-real-world-workflow</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/06-gstack-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/06-gstack-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/06-gstack-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/06-gstack-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/06-gstack-real-world-workflow" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/HermesAgent/00-hermes-agent-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/HermesAgent/00-hermes-agent-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/HermesAgent/00-hermes-agent-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/HermesAgent/00-hermes-agent-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/HermesAgent/00-hermes-agent-beginner-course" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/HermesAgent/01-hermes-agent-what-and-why</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/HermesAgent/01-hermes-agent-what-and-why" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/HermesAgent/01-hermes-agent-what-and-why" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/HermesAgent/01-hermes-agent-what-and-why" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/HermesAgent/01-hermes-agent-what-and-why" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/HermesAgent/02-hermes-agent-skills-system</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/HermesAgent/02-hermes-agent-skills-system" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/HermesAgent/02-hermes-agent-skills-system" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/HermesAgent/02-hermes-agent-skills-system" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/HermesAgent/02-hermes-agent-skills-system" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/HermesAgent/03-hermes-agent-memory-system</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/HermesAgent/03-hermes-agent-memory-system" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/HermesAgent/03-hermes-agent-memory-system" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/HermesAgent/03-hermes-agent-memory-system" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/HermesAgent/03-hermes-agent-memory-system" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/HermesAgent/04-hermes-agent-automation</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/HermesAgent/04-hermes-agent-automation" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/HermesAgent/04-hermes-agent-automation" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/HermesAgent/04-hermes-agent-automation" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/HermesAgent/04-hermes-agent-automation" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/HermesAgent/05-hermes-agent-real-world-workflow</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/HermesAgent/05-hermes-agent-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/HermesAgent/05-hermes-agent-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/HermesAgent/05-hermes-agent-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/HermesAgent/05-hermes-agent-real-world-workflow" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/GSD/00-gsd-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/00-gsd-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/00-gsd-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/00-gsd-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/00-gsd-beginner-course" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/00-gsd-beginner-course" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/GSD/01-what-is-gsd</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/01-what-is-gsd" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/01-what-is-gsd" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/01-what-is-gsd" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/01-what-is-gsd" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/01-what-is-gsd" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/GSD/02-gsd-mindset</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/02-gsd-mindset" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/02-gsd-mindset" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/02-gsd-mindset" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/02-gsd-mindset" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/02-gsd-mindset" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/GSD/03-ai-task-breakdown</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/03-ai-task-breakdown" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/03-ai-task-breakdown" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/03-ai-task-breakdown" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/03-ai-task-breakdown" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/03-ai-task-breakdown" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/GSD/04-execution-loop</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/04-execution-loop" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/04-execution-loop" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/04-execution-loop" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/04-execution-loop" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/04-execution-loop" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/GSD/05-common-traps</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/05-common-traps" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/05-common-traps" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/05-common-traps" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/05-common-traps" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/05-common-traps" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/GSD/06-real-world-gsd</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/06-real-world-gsd" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/06-real-world-gsd" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/06-real-world-gsd" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/06-real-world-gsd" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/06-real-world-gsd" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/OpenAlice/00-openalice-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenAlice/00-openalice-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenAlice/00-openalice-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenAlice/00-openalice-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenAlice/00-openalice-beginner-course" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/OpenAlice/00-openalice-beginner-course" />
+<lastmod>2026-04-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/OpenAlice/01-what-is-openalice</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenAlice/01-what-is-openalice" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenAlice/01-what-is-openalice" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenAlice/01-what-is-openalice" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenAlice/01-what-is-openalice" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/OpenAlice/01-what-is-openalice" />
+<lastmod>2026-04-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/OpenAlice/02-openalice-installation-quickstart</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenAlice/02-openalice-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenAlice/02-openalice-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenAlice/02-openalice-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenAlice/02-openalice-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/OpenAlice/02-openalice-installation-quickstart" />
+<lastmod>2026-04-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/OpenAlice/03-openalice-trading-as-git</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenAlice/03-openalice-trading-as-git" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenAlice/03-openalice-trading-as-git" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenAlice/03-openalice-trading-as-git" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenAlice/03-openalice-trading-as-git" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/OpenAlice/03-openalice-trading-as-git" />
+<lastmod>2026-04-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/OpenAlice/04-openalice-market-research</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenAlice/04-openalice-market-research" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenAlice/04-openalice-market-research" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenAlice/04-openalice-market-research" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenAlice/04-openalice-market-research" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/OpenAlice/04-openalice-market-research" />
+<lastmod>2026-04-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/OpenAlice/05-openalice-automation-heartbeat</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenAlice/05-openalice-automation-heartbeat" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenAlice/05-openalice-automation-heartbeat" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenAlice/05-openalice-automation-heartbeat" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenAlice/05-openalice-automation-heartbeat" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/OpenAlice/05-openalice-automation-heartbeat" />
+<lastmod>2026-04-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/00-minimalist-entrepreneur-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/00-minimalist-entrepreneur-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/00-minimalist-entrepreneur-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/00-minimalist-entrepreneur-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Minimalist-Entrepreneur/00-minimalist-entrepreneur-beginner-course" />
+<lastmod>2026-04-14T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/01-what-is-minimalist-entrepreneur</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/01-what-is-minimalist-entrepreneur" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/01-what-is-minimalist-entrepreneur" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/01-what-is-minimalist-entrepreneur" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Minimalist-Entrepreneur/01-what-is-minimalist-entrepreneur" />
+<lastmod>2026-04-14T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/02-minimalist-build-as-little-as-possible</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/02-minimalist-build-as-little-as-possible" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/02-minimalist-build-as-little-as-possible" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/02-minimalist-build-as-little-as-possible" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Minimalist-Entrepreneur/02-minimalist-build-as-little-as-possible" />
+<lastmod>2026-04-14T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/03-minimalist-sell-through-education</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/03-minimalist-sell-through-education" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/03-minimalist-sell-through-education" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/03-minimalist-sell-through-education" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Minimalist-Entrepreneur/03-minimalist-sell-through-education" />
+<lastmod>2026-04-14T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/04-minimalist-market-by-being-you</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/04-minimalist-market-by-being-you" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/04-minimalist-market-by-being-you" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/04-minimalist-market-by-being-you" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Minimalist-Entrepreneur/04-minimalist-market-by-being-you" />
+<lastmod>2026-04-14T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/05-minimalist-profitability-first</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/05-minimalist-profitability-first" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Minimalist-Entrepreneur/05-minimalist-profitability-first" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Minimalist-Entrepreneur/05-minimalist-profitability-first" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Minimalist-Entrepreneur/05-minimalist-profitability-first" />
+<lastmod>2026-04-14T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/OpenSpec/03-core-concepts</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenSpec/03-core-concepts" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenSpec/03-core-concepts" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenSpec/03-core-concepts" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenSpec/03-core-concepts" />
+<lastmod>2026-04-01T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/OpenSpec/04-workflow-propose-apply-archive</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenSpec/04-workflow-propose-apply-archive" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenSpec/04-workflow-propose-apply-archive" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenSpec/04-workflow-propose-apply-archive" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenSpec/04-workflow-propose-apply-archive" />
+<lastmod>2026-04-01T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/es/blog/OpenSpec/05-real-world-usage</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenSpec/05-real-world-usage" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenSpec/05-real-world-usage" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenSpec/05-real-world-usage" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenSpec/05-real-world-usage" />
+<lastmod>2026-04-01T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/ja/blog/Gstack/00-gstack-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/00-gstack-beginner-course" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/00-gstack-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/00-gstack-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/00-gstack-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/00-gstack-beginner-course" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/ja/blog/Gstack/01-what-is-gstack</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/01-what-is-gstack" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/01-what-is-gstack" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/01-what-is-gstack" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/01-what-is-gstack" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/01-what-is-gstack" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/ja/blog/Gstack/02-gstack-installation-quickstart</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/02-gstack-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/02-gstack-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/02-gstack-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/02-gstack-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/02-gstack-installation-quickstart" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/ja/blog/Gstack/03-gstack-plan-review</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/03-gstack-plan-review" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/03-gstack-plan-review" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/03-gstack-plan-review" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/03-gstack-plan-review" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/03-gstack-plan-review" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/ja/blog/Gstack/04-gstack-code-review-and-ship</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/04-gstack-code-review-and-ship" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/04-gstack-code-review-and-ship" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/04-gstack-code-review-and-ship" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/04-gstack-code-review-and-ship" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/04-gstack-code-review-and-ship" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/ja/blog/Gstack/05-gstack-qa-and-browse</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/05-gstack-qa-and-browse" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/05-gstack-qa-and-browse" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/05-gstack-qa-and-browse" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/05-gstack-qa-and-browse" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/05-gstack-qa-and-browse" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/ja/blog/Gstack/06-gstack-real-world-workflow</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Gstack/06-gstack-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/Gstack/06-gstack-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Gstack/06-gstack-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/Gstack/06-gstack-real-world-workflow" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/Gstack/06-gstack-real-world-workflow" />
+<lastmod>2026-04-19T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/ja/blog/GSD/00-gsd-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/00-gsd-beginner-course" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/00-gsd-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/00-gsd-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/00-gsd-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/00-gsd-beginner-course" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/ja/blog/GSD/01-what-is-gsd</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/01-what-is-gsd" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/01-what-is-gsd" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/01-what-is-gsd" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/01-what-is-gsd" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/01-what-is-gsd" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/ja/blog/GSD/02-gsd-mindset</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/02-gsd-mindset" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/02-gsd-mindset" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/02-gsd-mindset" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/02-gsd-mindset" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/02-gsd-mindset" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/ja/blog/GSD/03-ai-task-breakdown</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/03-ai-task-breakdown" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/03-ai-task-breakdown" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/03-ai-task-breakdown" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/03-ai-task-breakdown" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/03-ai-task-breakdown" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/ja/blog/GSD/04-execution-loop</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/04-execution-loop" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/04-execution-loop" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/04-execution-loop" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/04-execution-loop" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/04-execution-loop" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/ja/blog/GSD/05-common-traps</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/05-common-traps" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/05-common-traps" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/05-common-traps" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/05-common-traps" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/05-common-traps" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/ja/blog/GSD/06-real-world-gsd</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/GSD/06-real-world-gsd" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/GSD/06-real-world-gsd" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/GSD/06-real-world-gsd" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/GSD/06-real-world-gsd" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/GSD/06-real-world-gsd" />
+<lastmod>2026-04-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/ja/blog/OpenAlice/00-openalice-beginner-course</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenAlice/00-openalice-beginner-course" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/OpenAlice/00-openalice-beginner-course" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenAlice/00-openalice-beginner-course" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenAlice/00-openalice-beginner-course" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenAlice/00-openalice-beginner-course" />
+<lastmod>2026-04-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/ja/blog/OpenAlice/01-what-is-openalice</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenAlice/01-what-is-openalice" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/OpenAlice/01-what-is-openalice" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenAlice/01-what-is-openalice" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenAlice/01-what-is-openalice" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenAlice/01-what-is-openalice" />
+<lastmod>2026-04-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/ja/blog/OpenAlice/02-openalice-installation-quickstart</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenAlice/02-openalice-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/OpenAlice/02-openalice-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenAlice/02-openalice-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenAlice/02-openalice-installation-quickstart" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenAlice/02-openalice-installation-quickstart" />
+<lastmod>2026-04-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/ja/blog/OpenAlice/03-openalice-trading-as-git</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenAlice/03-openalice-trading-as-git" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/OpenAlice/03-openalice-trading-as-git" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenAlice/03-openalice-trading-as-git" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenAlice/03-openalice-trading-as-git" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenAlice/03-openalice-trading-as-git" />
+<lastmod>2026-04-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/ja/blog/OpenAlice/04-openalice-market-research</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenAlice/04-openalice-market-research" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/OpenAlice/04-openalice-market-research" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenAlice/04-openalice-market-research" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenAlice/04-openalice-market-research" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenAlice/04-openalice-market-research" />
+<lastmod>2026-04-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/ja/blog/OpenAlice/05-openalice-automation-heartbeat</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/OpenAlice/05-openalice-automation-heartbeat" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aiprohunter.com/ja/blog/OpenAlice/05-openalice-automation-heartbeat" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/OpenAlice/05-openalice-automation-heartbeat" />
+<xhtml:link rel="alternate" hreflang="en" href="https://aiprohunter.com/en/blog/OpenAlice/05-openalice-automation-heartbeat" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aiprohunter.com/es/blog/OpenAlice/05-openalice-automation-heartbeat" />
+<lastmod>2026-04-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+</urlset>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AIProHunter (en)</title>
+    <link>https://aiprohunter.com/en</link>
+    <description>AI Tools Tutorials and Guides</description>
+    <language>en</language>
+    <atom:link href="https://aiprohunter.com/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <item>
+      <title>Multi-Project Mode: Manage All Your Repos from One CCManager Interface</title>
+      <link>https://aiprohunter.com/en/blog/CCManager/09-ccmanager-multi-project</link>
+      <description>Use --multi-project mode to manage AI Agents across repos — configure the environment variable, browse the project list, and switch between multiple repos.</description>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/en/blog/CCManager/09-ccmanager-multi-project</guid>
+    </item>
+    <item>
+      <title>Status Hooks: Let AI Agents Notify You When They&apos;re Done</title>
+      <link>https://aiprohunter.com/en/blog/CCManager/08-ccmanager-status-hooks</link>
+      <description>Configure CCManager Status Hooks so Agent state changes automatically push desktop notifications or fire Slack webhooks — stop watching the terminal.</description>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/en/blog/CCManager/08-ccmanager-status-hooks</guid>
+    </item>
+    <item>
+      <title>CCManager Complete Configuration Guide: Shortcuts, Command Presets, Per-Project Settings</title>
+      <link>https://aiprohunter.com/en/blog/CCManager/07-ccmanager-config</link>
+      <description>Everything you can configure in the global config.json and per-project .ccmanager.json — tune CCManager to fit your workflow exactly.</description>
+      <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/en/blog/CCManager/07-ccmanager-config</guid>
+    </item>
+    <item>
+      <title>Claude Squad Real-World Scenarios: Best Strategies for Three Development Task Types</title>
+      <link>https://aiprohunter.com/en/blog/ClaudeSquad/09-real-world-workflows</link>
+      <description>The Claude Squad series finale: feature development, bug fixes, and code refactoring — the best-fit Claude Squad workflow for each task type. Combines all concepts from the previous nine articles into directly usable work patterns.</description>
+      <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/en/blog/ClaudeSquad/09-real-world-workflows</guid>
+    </item>
+    <item>
+      <title>Beyond Claude Code: Which AI Assistants Does CCManager Support?</title>
+      <link>https://aiprohunter.com/en/blog/CCManager/06-ccmanager-multi-ai</link>
+      <description>CCManager supports 8 AI coding tools, each with its own status detection logic — this article explains how to switch tools and what configuration differences to expect.</description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/en/blog/CCManager/06-ccmanager-multi-ai</guid>
+    </item>
+    <item>
+      <title>Claude Squad Review, Commit, Push: The Complete Post-Agent Review Workflow</title>
+      <link>https://aiprohunter.com/en/blog/ClaudeSquad/08-review-commit-push</link>
+      <description>Claude Squad has a built-in workflow for diff previewing, checkout pausing, and pushing to GitHub. This article explains how to review changes, confirm results, commit, and push — all from the TUI without switching tools — after an agent finishes.</description>
+      <pubDate>Sat, 23 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/en/blog/ClaudeSquad/08-review-commit-push</guid>
+    </item>
+    <item>
+      <title>Claude Squad Configuration and Profiles: Use Different AI Tools for Different Tasks</title>
+      <link>https://aiprohunter.com/en/blog/ClaudeSquad/07-configuration-profiles</link>
+      <description>A complete guide to Claude Squad&apos;s config.json: how to configure default_program, create multiple profiles (claude, codex, aider, gemini), and switch tools when creating sessions. Configure once, switch anytime.</description>
+      <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/en/blog/ClaudeSquad/07-configuration-profiles</guid>
+    </item>
+    <item>
+      <title>Create, Switch, and Delete Worktrees: CCManager&apos;s Core Operations</title>
+      <link>https://aiprohunter.com/en/blog/CCManager/05-ccmanager-worktree-management</link>
+      <description>Build Worktrees from the CCManager interface, assign AI Agents, copy session data, and merge back to main — a full walkthrough of the core multi-Agent workflow.</description>
+      <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/en/blog/CCManager/05-ccmanager-worktree-management</guid>
+    </item>
+    <item>
+      <title>Multi-Agent Parallel Development: Designing a Workflow for Three Simultaneous Tasks with Claude Squad</title>
+      <link>https://aiprohunter.com/en/blog/ClaudeSquad/06-multi-agent-workflow</link>
+      <description>Claude Squad&apos;s most powerful use case: running multiple AI agents in parallel on different tasks. This article uses a real-world scenario to show how to split tasks, arrange sessions, monitor progress, and wrap up with merges — designing the multi-agent development workflow clearly.</description>
+      <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/en/blog/ClaudeSquad/06-multi-agent-workflow</guid>
+    </item>
+    <item>
+      <title>What Is Git Worktree? Why CCManager Uses It</title>
+      <link>https://aiprohunter.com/en/blog/CCManager/04-ccmanager-git-worktree</link>
+      <description>Understanding Git Worktrees is the key to understanding how CCManager works — this article builds the core concept clearly, no fluff, with examples.</description>
+      <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/en/blog/CCManager/04-ccmanager-git-worktree</guid>
+    </item>
+    <item>
+      <title>Claude Squad Auto-Accept Mode: Let Agents Run Quietly While You Work on Something Else</title>
+      <link>https://aiprohunter.com/en/blog/ClaudeSquad/05-auto-accept-mode</link>
+      <description>Claude Squad&apos;s -y flag enables auto-accept mode, letting agents automatically accept all confirmation prompts and continue running in the background. This article explains which scenarios are appropriate for enabling it and which are not, along with practical usage tips.</description>
+      <pubDate>Sat, 16 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/en/blog/ClaudeSquad/05-auto-accept-mode</guid>
+    </item>
+    <item>
+      <title>Git Worktree Isolation: The Key to Keeping Multiple Agents from Interfering with Each Other in Claude Squad</title>
+      <link>https://aiprohunter.com/en/blog/ClaudeSquad/04-git-worktree-isolation</link>
+      <description>Claude Squad uses git worktree to give each session its own independent working directory and branch, allowing multiple AI agents to work in parallel without overwriting each other. This article explains what worktrees are, how Claude Squad uses them, and how to manage the resulting branches.</description>
+      <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/en/blog/ClaudeSquad/04-git-worktree-isolation</guid>
+    </item>
+    <item>
+      <title>CCManager Interface Guide and Keyboard Shortcuts</title>
+      <link>https://aiprohunter.com/en/blog/CCManager/03-ccmanager-ui-shortcuts</link>
+      <description>CCManager TUI interaction logic, default keyboard shortcuts, and how to customize them — understand the interface so switching sessions actually feels smooth.</description>
+      <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/en/blog/CCManager/03-ccmanager-ui-shortcuts</guid>
+    </item>
+    <item>
+      <title>Claude Squad TUI Complete Guide: The Shortcuts You Need to Know</title>
+      <link>https://aiprohunter.com/en/blog/ClaudeSquad/03-basic-tui-usage</link>
+      <description>A complete guide to Claude Squad&apos;s TUI interface: how to create new sessions, navigate between tasks, attach and detach from sessions, view diffs, and pause and resume tasks. There aren&apos;t many shortcuts, but each one has its purpose.</description>
+      <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/en/blog/ClaudeSquad/03-basic-tui-usage</guid>
+    </item>
+    <item>
+      <title>Installing CCManager: Up and Running in Three Minutes</title>
+      <link>https://aiprohunter.com/en/blog/CCManager/02-ccmanager-installation</link>
+      <description>The complete CCManager installation flow — global npm install or zero-install npx, verify it works, start your first session. No fluff, just follow along.</description>
+      <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/en/blog/CCManager/02-ccmanager-installation</guid>
+    </item>
+    <item>
+      <title>Installing Claude Squad: Get a Multi-Agent Terminal Environment Running in 5 Minutes</title>
+      <link>https://aiprohunter.com/en/blog/ClaudeSquad/02-installation-setup</link>
+      <description>Complete Claude Squad installation guide: installing prerequisites tmux and gh CLI, installing Claude Squad via Homebrew or manually, and verifying your environment. Follow the steps and have the cs command ready in under 5 minutes.</description>
+      <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/en/blog/ClaudeSquad/02-installation-setup</guid>
+    </item>
+    <item>
+      <title>What Is Claude Squad? A Terminal Management Tool for the Multi-Agent Era</title>
+      <link>https://aiprohunter.com/en/blog/ClaudeSquad/01-what-is-claude-squad</link>
+      <description>Claude Squad is an open-source terminal tool written in Go that lets you manage multiple AI agents (Claude Code, Codex, Gemini, Aider) simultaneously in a single window. This article explains what problem it solves, its design philosophy, and its relationship with tmux.</description>
+      <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/en/blog/ClaudeSquad/01-what-is-claude-squad</guid>
+    </item>
+    <item>
+      <title>What Is CCManager? Why You Need It in the Multi-Agent Era</title>
+      <link>https://aiprohunter.com/en/blog/CCManager/01-ccmanager-what-is-it</link>
+      <description>A complete look at CCManager&apos;s positioning — what pain points it addresses, how it differs from Claude Squad, and when you actually need it.</description>
+      <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/en/blog/CCManager/01-ccmanager-what-is-it</guid>
+    </item>
+    <item>
+      <title>Claude Squad Beginner&apos;s Guide: 10 Articles to Master Multi-Agent Management in a Single Terminal</title>
+      <link>https://aiprohunter.com/en/blog/ClaudeSquad/00-claude-squad-beginner-course</link>
+      <description>Claude Squad is an open-source terminal tool that lets you run multiple AI agents (Claude Code, Codex, Gemini, Aider) simultaneously in a single window, each with an isolated git worktree. This 10-part series takes you from zero to fully operational.</description>
+      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/en/blog/ClaudeSquad/00-claude-squad-beginner-course</guid>
+    </item>
+    <item>
+      <title>CCManager Beginner Course: Run Multiple AI Agents Without Terminal Chaos</title>
+      <link>https://aiprohunter.com/en/blog/CCManager/00-ccmanager-beginner-course</link>
+      <description>An overview of the CCManager series — understand what problem this tool solves, who needs it, and the recommended reading order for all 10 articles.</description>
+      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/en/blog/CCManager/00-ccmanager-beginner-course</guid>
+    </item>
+  </channel>
+</rss>

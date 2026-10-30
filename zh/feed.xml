@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AIProHunter (zh)</title>
+    <link>https://aiprohunter.com/zh</link>
+    <description>AI Tools Tutorials and Guides</description>
+    <language>zh</language>
+    <atom:link href="https://aiprohunter.com/zh/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <item>
+      <title>Open Design 真實工作流：用 AI Agent 做提案簡報、Dashboard、App 原型</title>
+      <link>https://aiprohunter.com/zh/blog/OpenDesign/10-real-world-workflows</link>
+      <description>前 9 篇打底完，這篇直接套到三個真案子：seed round pitch deck、SaaS dashboard、mobile app onboarding。每個案子從打開 prompt 到 export 全程示範，讀完你能自己跑一輪。</description>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenDesign/10-real-world-workflows</guid>
+    </item>
+    <item>
+      <title>Open Design Prompt Stack 架構：作者說『這才是真正的產品』</title>
+      <link>https://aiprohunter.com/zh/blog/OpenDesign/09-prompt-stack</link>
+      <description>Open Design 作者直白寫下「prompt stack is the product」——這篇把六層架構（discovery、identity、DESIGN.md、SKILL.md、metadata、side files）逐層拆開，看它們在 send-time 怎麼疊。</description>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenDesign/09-prompt-stack</guid>
+    </item>
+    <item>
+      <title>Open Design 反 AI-slop 機器：問題表格、五維自評、P0 閘門完整拆解</title>
+      <link>https://aiprohunter.com/zh/blog/OpenDesign/08-anti-ai-slop</link>
+      <description>為什麼 Open Design 的輸出比較不 slop？答案在「先發問再動手」「品牌規格五步驟」「emit 前五維自評」「P0 硬閘門」「slop 黑名單」這套機器裡——這篇逐條拆解。</description>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenDesign/08-anti-ai-slop</guid>
+    </item>
+    <item>
+      <title>Open Design 的五個視覺方向：客戶沒品牌時的決定論答案</title>
+      <link>https://aiprohunter.com/zh/blog/OpenDesign/07-five-visual-directions</link>
+      <description>Editorial Monocle、Modern Minimal、Tech Utility、Brutalist、Soft Warm——當使用者沒有 brand spec，Open Design 用這 5 個 curated 方向當 fallback。每個都是決定論的色票、字體、排版規格，避免 AI 自由發揮亂塗。</description>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenDesign/07-five-visual-directions</guid>
+    </item>
+    <item>
+      <title>Open Design 的 71 套 Design Systems：DESIGN.md 九大區塊完整解析</title>
+      <link>https://aiprohunter.com/zh/blog/OpenDesign/06-design-systems</link>
+      <description>Linear、Stripe、Vercel、Notion、Apple、Cursor、Tesla 全部都在——Open Design 內建 71 套品牌級 design system。這篇拆 DESIGN.md 的 9 段式 schema 和切換邏輯，教你一份檔案改出公司專用的。</description>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenDesign/06-design-systems</guid>
+    </item>
+    <item>
+      <title>Open Design Skills 完全指南：19 個內建 skill 與如何加自己的</title>
+      <link>https://aiprohunter.com/zh/blog/OpenDesign/05-skills-system</link>
+      <description>SKILL.md + assets + references 三件套，讓 Open Design 的 19 個 skill 變成可組合的設計指令。這篇拆 frontmatter 的 od: 擴充欄位、template.html 怎麼被讀、checklist.md 的 P0/P1/P2 是什麼。</description>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenDesign/05-skills-system</guid>
+    </item>
+    <item>
+      <title>多專案模式：一個 CCManager 介面管所有 Repo</title>
+      <link>https://aiprohunter.com/zh/blog/CCManager/09-ccmanager-multi-project</link>
+      <description>用 --multi-project 模式讓 CCManager 跨 repo 管理 AI Agent——設定環境變數、瀏覽專案清單、在多個 repo 間切換。</description>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/CCManager/09-ccmanager-multi-project</guid>
+    </item>
+    <item>
+      <title>Open Design BYOK 與多 CLI 自動偵測：把你既有 agent 變成設計引擎</title>
+      <link>https://aiprohunter.com/zh/blog/OpenDesign/04-byok-and-multi-agent</link>
+      <description>Claude Code、Codex、Cursor Agent、Gemini CLI、OpenCode、Qwen、Copilot CLI 七個 CLI 任選一個都能跑——這篇拆解 daemon 怎麼偵測、streaming 模式差在哪、缺 CLI 時 BYOK fallback 怎麼接。</description>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenDesign/04-byok-and-multi-agent</guid>
+    </item>
+    <item>
+      <title>Status Hooks：讓 AI Agent 跑完自動通知你</title>
+      <link>https://aiprohunter.com/zh/blog/CCManager/08-ccmanager-status-hooks</link>
+      <description>設定 CCManager Status Hooks，Agent 狀態改變時自動推桌面通知、打 Slack webhook——不用一直盯著終端機。</description>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/CCManager/08-ccmanager-status-hooks</guid>
+    </item>
+    <item>
+      <title>Open Design 的六個核心理念：搞懂哲學才知道為什麼這樣設計</title>
+      <link>https://aiprohunter.com/zh/blog/OpenDesign/03-six-core-ideas</link>
+      <description>為什麼 Open Design 不自帶 agent？為什麼 skill 是檔案不是 plugin？這六個核心理念解釋了整套系統的設計選擇——讀完你會用得很順，不會用得很彆扭。</description>
+      <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenDesign/03-six-core-ideas</guid>
+    </item>
+    <item>
+      <title>Open Design 安裝與快速上手：從 clone 到第一張 artifact</title>
+      <link>https://aiprohunter.com/zh/blog/OpenDesign/02-install-and-quickstart</link>
+      <description>Open Design 安裝其實只有五行指令——關鍵是搞懂 .od/ 資料夾在做什麼、第一次跑會發生什麼、缺 CLI 時 BYOK fallback 怎麼接。動手派看這篇就夠。</description>
+      <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenDesign/02-install-and-quickstart</guid>
+    </item>
+    <item>
+      <title>CCManager 設定檔完整指南：快捷鍵、指令預設、專案級設定</title>
+      <link>https://aiprohunter.com/zh/blog/CCManager/07-ccmanager-config</link>
+      <description>global config.json 和 per-project .ccmanager.json 能調什麼、怎麼調——把 CCManager 設成你工作流最順的樣子。</description>
+      <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/CCManager/07-ccmanager-config</guid>
+    </item>
+    <item>
+      <title>Claude Squad 實戰場景：三種開發任務類型的最佳使用策略</title>
+      <link>https://aiprohunter.com/zh/blog/ClaudeSquad/09-real-world-workflows</link>
+      <description>Claude Squad 系列最終篇：功能開發、Bug 修復、程式碼重構三種任務類型，各自最適合的 Claude Squad 工作流設計。把前九篇的所有概念組合成可以直接用的工作模式。</description>
+      <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/ClaudeSquad/09-real-world-workflows</guid>
+    </item>
+    <item>
+      <title>Open Design 是什麼？為什麼這個 Claude Design 開源版要存在</title>
+      <link>https://aiprohunter.com/zh/blog/OpenDesign/01-what-is-open-design</link>
+      <description>Anthropic 的 Claude Design 在 2026 年 4 月引爆設計圈，但它閉源、收費、雲端、鎖 Anthropic 模型。Open Design 是這條路上的開源替代品——用你自己的 CLI、跑在你自己的機器上。</description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenDesign/01-what-is-open-design</guid>
+    </item>
+    <item>
+      <title>不只 Claude Code：CCManager 支援哪些 AI 助手</title>
+      <link>https://aiprohunter.com/zh/blog/CCManager/06-ccmanager-multi-ai</link>
+      <description>CCManager 支援 8 種 AI coding 工具，各有自己的狀態偵測邏輯——這篇說清楚怎麼切換工具、每種工具的設定差異。</description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/CCManager/06-ccmanager-multi-ai</guid>
+    </item>
+    <item>
+      <title>Claude Squad Review、Commit、Push：代理人跑完之後的完整審查流程</title>
+      <link>https://aiprohunter.com/zh/blog/ClaudeSquad/08-review-commit-push</link>
+      <description>Claude Squad 內建 diff 預覽、checkout 暫停、push 到 GitHub 的完整工作流。本篇說清楚代理人跑完之後，如何在 TUI 裡審查改動、確認結果、commit 並推送——一氣呵成不需要切換工具。</description>
+      <pubDate>Sat, 23 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/ClaudeSquad/08-review-commit-push</guid>
+    </item>
+    <item>
+      <title>Open Design 入門課：10 篇教學帶你用 AI Agent 做出設計師等級的作品</title>
+      <link>https://aiprohunter.com/zh/blog/OpenDesign/00-open-design-beginner-course</link>
+      <description>Open Design 是 Claude Design 的開源、本地版本——19 Skills、71 Design Systems、跑在你現有的 CLI 上。這篇是 10 篇教學的系列總覽，帶你認路、排序、出發。</description>
+      <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenDesign/00-open-design-beginner-course</guid>
+    </item>
+    <item>
+      <title>Claude Squad 設定檔與 Profiles：讓不同任務用不同的 AI 工具</title>
+      <link>https://aiprohunter.com/zh/blog/ClaudeSquad/07-configuration-profiles</link>
+      <description>Claude Squad 的設定檔 config.json 完整說明：如何設定 default_program、建立多個 profiles（claude、codex、aider、gemini），以及新建 session 時怎麼切換工具。一次設定，隨時切換。</description>
+      <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/ClaudeSquad/07-configuration-profiles</guid>
+    </item>
+    <item>
+      <title>建立、切換、刪除 Worktree：CCManager 的核心操作</title>
+      <link>https://aiprohunter.com/zh/blog/CCManager/05-ccmanager-worktree-management</link>
+      <description>從 CCManager 介面建 Worktree、分配 AI Agent、複製工作階段資料、合併回主線——把多 Agent 並行的核心流程走一遍。</description>
+      <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/CCManager/05-ccmanager-worktree-management</guid>
+    </item>
+    <item>
+      <title>多代理人並行開發：用 Claude Squad 同時跑三件事的工作流設計</title>
+      <link>https://aiprohunter.com/zh/blog/ClaudeSquad/06-multi-agent-workflow</link>
+      <description>Claude Squad 最核心的使用情境：同時跑多個 AI 代理人並行處理不同任務。本篇用真實場景說明如何拆分任務、安排 session、監控進度、收尾合併，把多代理人開發流程設計清楚。</description>
+      <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/ClaudeSquad/06-multi-agent-workflow</guid>
+    </item>
+  </channel>
+</rss>
