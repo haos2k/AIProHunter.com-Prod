@@ -1,8 +1,6 @@
 User-Agent: *
 Allow: /
-Disallow: /search
-Disallow: /ko/
-Disallow: /fr/
+Disallow: /*/search
 
 User-Agent: GPTBot
 Allow: /
