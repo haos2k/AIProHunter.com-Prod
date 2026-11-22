@@ -2,7 +2,7 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
     <loc>https://aiprohunter.com/sitemaps/posts-latest.xml</loc>
-    <lastmod>2026-11-21T01:39:46.382Z</lastmod>
+    <lastmod>2026-11-22T01:35:49.841Z</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://aiprohunter.com/sitemaps/posts-2026-03.xml</loc>
@@ -21,7 +21,11 @@
     <lastmod>2026-06-21T00:00:00.000Z</lastmod>
   </sitemap>
   <sitemap>
+    <loc>https://aiprohunter.com/sitemaps/posts-2026-11.xml</loc>
+    <lastmod>2026-11-15T00:00:00.000Z</lastmod>
+  </sitemap>
+  <sitemap>
     <loc>https://aiprohunter.com/sitemaps/pages.xml</loc>
-    <lastmod>2026-11-21T01:39:46.382Z</lastmod>
+    <lastmod>2026-11-22T01:35:49.841Z</lastmod>
   </sitemap>
 </sitemapindex>

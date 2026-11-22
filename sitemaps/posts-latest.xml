@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 <url>
+<loc>https://aiprohunter.com/zh/blog/Cline/01-file-approval</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Cline/01-file-approval" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Cline/01-file-approval" />
+<lastmod>2026-11-22T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
 <loc>https://aiprohunter.com/zh/blog/Orca/02-agent-handoff</loc>
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Orca/02-agent-handoff" />
 <xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Orca/02-agent-handoff" />
@@ -53,22 +61,6 @@
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Paperclip/03-paperclip-budget-approval" />
 <xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Paperclip/03-paperclip-budget-approval" />
 <lastmod>2026-11-16T00:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://aiprohunter.com/zh/blog/Paperclip/01-paperclip-task-visibility</loc>
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Paperclip/01-paperclip-task-visibility" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Paperclip/01-paperclip-task-visibility" />
-<lastmod>2026-11-15T00:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://aiprohunter.com/zh/blog/Paperclip/02-paperclip-first-issue</loc>
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Paperclip/02-paperclip-first-issue" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Paperclip/02-paperclip-first-issue" />
-<lastmod>2026-11-15T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
