@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 <url>
+<loc>https://aiprohunter.com/zh/blog/Hindsight/01-memory-types</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Hindsight/01-memory-types" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Hindsight/01-memory-types" />
+<lastmod>2026-11-17T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
 <loc>https://aiprohunter.com/zh/blog/Paperclip/03-paperclip-budget-approval</loc>
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Paperclip/03-paperclip-budget-approval" />
 <xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Paperclip/03-paperclip-budget-approval" />
