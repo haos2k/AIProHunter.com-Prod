@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<title>Hindsight · Editorial Cover Proposal 01</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,600;6..96,700&family=DM+Sans:wght@400;500;600;700&family=Noto+Serif+TC:wght@400;600;700;900&display=swap" rel="stylesheet">
+<style>
+:root{--cv-w:1024px;--cv-h:1024px;--paper:#f1ede3;--ink:#202d2c;--rust:#d44f32;--jade:#337e74;--font-display:'Noto Serif TC',serif;--font-mono:'DM Sans',sans-serif}
+*{box-sizing:border-box}
+html,body{margin:0;background:#ddd7cb}
+.cover{position:relative;overflow:hidden;width:var(--cv-w);height:var(--cv-h);background:var(--paper);color:var(--ink);font-family:var(--font-display);isolation:isolate}
+.cover:before{content:'';position:absolute;inset:0;pointer-events:none;opacity:.23;background-image:radial-gradient(#74827a 0.6px,transparent .75px),radial-gradient(#e7d9c8 0.8px,transparent 1px);background-position:0 0,7px 12px;background-size:19px 19px,23px 23px;mix-blend-mode:multiply}
+.topline{position:absolute;top:37px;left:61px;right:61px;display:flex;justify-content:space-between;font:700 17px var(--font-mono);letter-spacing:.16em;border-bottom:2px solid var(--ink);padding-bottom:13px}
+.masthead{position:absolute;top:60px;left:49px;margin:0;font:700 126px 'Bodoni Moda',serif;letter-spacing:-.075em;line-height:1.2;color:var(--ink)}
+.masthead .dot{color:var(--rust)}
+.deck{position:absolute;top:217px;left:64px;width:580px;font:600 18px var(--font-mono);letter-spacing:.07em;line-height:1.35;color:var(--jade);text-transform:uppercase}
+.issue{position:absolute;top:213px;right:62px;font:700 18px var(--font-mono);letter-spacing:.08em;color:var(--rust)}
+.art{position:absolute;top:280px;left:0;width:100%;height:445px;overflow:hidden}
+.art:before{content:'';position:absolute;left:245px;top:10px;width:550px;height:440px;border:36px solid rgba(111,62,37,.17);border-radius:50%;transform:rotate(-14deg);filter:blur(1.5px);box-shadow:0 0 0 9px rgba(111,62,37,.035),inset 0 0 12px rgba(81,42,21,.12)}
+.art:after{content:'';position:absolute;left:613px;top:116px;width:280px;height:280px;border:8px solid rgba(109,57,32,.11);border-radius:50%;transform:rotate(-18deg)}
+.receipt{position:absolute;background:#fcfaf4;box-shadow:6px 20px 30px #4c443e27,0 0 0 1px #c7bcae;z-index:2}
+.receipt.old{left:176px;top:18px;width:310px;height:360px;transform:rotate(-8deg);opacity:.83}
+.receipt.new{left:458px;top:52px;width:350px;height:340px;transform:rotate(7deg)}
+.receipt .edge{height:19px;background:repeating-linear-gradient(135deg,transparent 0 9px,#d9d4c8 9px 10px,transparent 10px 19px);opacity:.7}
+.receipt .inner{padding:24px 28px}
+.receipt small{display:block;font:700 16px var(--font-mono);letter-spacing:.12em;color:#718178;border-bottom:1px solid #a5ada5;padding-bottom:12px}
+.receipt b{display:block;margin-top:27px;font-size:31px;line-height:1.55;letter-spacing:.02em;font-weight:700}
+.receipt.old b{color:#5f6964;text-decoration:line-through;text-decoration-color:var(--rust);text-decoration-thickness:4px}
+.receipt.new b{color:var(--ink)}
+.receipt .tag{display:inline-block;margin-top:24px;padding:5px 11px;border:2px solid var(--rust);color:var(--rust);font:700 17px var(--font-mono);letter-spacing:.1em;transform:rotate(-4deg)}
+.paperclip{position:absolute;left:427px;top:27px;z-index:5;width:46px;height:95px;border:8px solid #718b82;border-bottom:0;border-radius:30px 30px 0 0;transform:rotate(-5deg);box-shadow:5px 2px 4px #0002}
+.paperclip:after{content:'';position:absolute;left:11px;top:15px;width:14px;height:67px;border:5px solid #718b82;border-bottom:0;border-radius:15px 15px 0 0}
+.annotation{position:absolute;z-index:6;right:76px;top:25px;color:var(--rust);font:700 18px var(--font-mono);letter-spacing:.12em;transform:rotate(7deg)}
+.annotation:after{content:'';display:block;width:114px;height:20px;margin-top:8px;border-bottom:4px solid var(--rust);border-radius:50%;transform:rotate(-15deg)}
+.leftnote{position:absolute;left:43px;top:332px;writing-mode:vertical-rl;transform:rotate(180deg);font:700 17px var(--font-mono);letter-spacing:.15em;color:var(--jade)}
+.headline-wrap{position:absolute;top:725px;left:62px;right:61px;z-index:10}
+.eyebrow{font:700 18px var(--font-mono);letter-spacing:.15em;color:var(--rust);margin-bottom:13px}
+.headline{font-size:70px;line-height:1.18;letter-spacing:-.045em;font-weight:900;margin:0}
+.headline .second{display:block}.headline .question{color:var(--rust)}
+.summary{position:absolute;top:940px;left:64px;right:62px;padding-top:11px;border-top:2px solid var(--ink);display:flex;justify-content:space-between;align-items:flex-start;font-size:20px;font-weight:600}
+.summary .brand{font:700 17px var(--font-mono);letter-spacing:.13em;color:var(--jade);white-space:nowrap;margin-left:25px;margin-top:4px}
+</style>
+</head>
+<body>
+<div class="cover">
+  <div class="topline"><span>THE MEMORY ISSUE</span><span>AI · WORK · EVIDENCE</span></div>
+  <h1 class="masthead">HINDSIGHT<span class="dot">.</span></h1>
+  <div class="deck">WHEN A MEMORY MEETS A CORRECTION</div>
+  <div class="issue">VOL. 01 / 10</div>
+  <div class="art">
+    <div class="receipt old"><div class="edge"></div><div class="inner"><small>CLIENT BRIEF / NOV 04</small><b>司康<br>每日現做</b></div></div>
+    <div class="receipt new"><div class="edge"></div><div class="inner"><small>OWNER UPDATE / NOV 18</small><b>司康<br>週五至週日供應</b><span class="tag">已更正</span></div></div>
+    <div class="paperclip"></div><div class="annotation">SOURCE CHECK</div>
+  </div>
+  <div class="leftnote">A FIELD GUIDE TO AI MEMORY</div>
+  <div class="headline-wrap"><div class="eyebrow">COVER STORY 01</div><h2 class="headline">AI 記住了，<span class="second">就是真的<span class="question">嗎？</span></span></h2></div>
+  <div class="summary"><span>用一家虛構小店，拆解長期記憶的來源與更正。</span><span class="brand">AI PRO HUNTER</span></div>
+</div>
+</body>
+</html>

@@ -17,6 +17,14 @@
 <priority>0.8</priority>
 </url>
 <url>
+<loc>https://aiprohunter.com/zh/blog/Hindsight/01-memory-types</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Hindsight/01-memory-types" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Hindsight/01-memory-types" />
+<lastmod>2026-11-25T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
 <loc>https://aiprohunter.com/zh/blog/Paperclip/01-paperclip-task-visibility</loc>
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Paperclip/01-paperclip-task-visibility" />
 <xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Paperclip/01-paperclip-task-visibility" />
@@ -69,14 +77,6 @@
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Orca/01-isolated-worktrees" />
 <xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Orca/01-isolated-worktrees" />
 <lastmod>2026-11-20T00:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://aiprohunter.com/zh/blog/Hindsight/03-memory-banks</loc>
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Hindsight/03-memory-banks" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Hindsight/03-memory-banks" />
-<lastmod>2026-11-19T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>

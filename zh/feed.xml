@@ -29,11 +29,25 @@
       <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Pipecat/01-voice-latency</guid>
     </item>
     <item>
+      <title>Hindsight 值得導入嗎？十篇實測後的時間與成本檢查</title>
+      <link>https://aiprohunter.com/zh/blog/Hindsight/10-hindsight-adoption-checklist</link>
+      <description>整理本機實測的模型耗時、tokens、人工修改需求，教讀者估算內容服務是否值得採用。</description>
+      <pubDate>Sun, 13 Dec 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Hindsight/10-hindsight-adoption-checklist</guid>
+    </item>
+    <item>
       <title>Archify 的圖要分享給同事，怎麼避免下週就過期？</title>
       <link>https://aiprohunter.com/zh/blog/Archify/03-keep-diagram-current</link>
       <description>用一個 API 路徑改動做例子，示範重新生成與差異檢查。</description>
       <pubDate>Sat, 12 Dec 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Archify/03-keep-diagram-current</guid>
+    </item>
+    <item>
+      <title>AI 寫好就能發嗎？用 Hindsight 草稿做人工安全查核</title>
+      <link>https://aiprohunter.com/zh/blog/Hindsight/09-hindsight-human-review</link>
+      <description>以實際生成的錯誤貼文為例，逐句查核價格、供應日、營業時間和未批准促銷。</description>
+      <pubDate>Fri, 11 Dec 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Hindsight/09-hindsight-human-review</guid>
     </item>
     <item>
       <title>用 Archify 畫一條登入流程：圖上每個箭頭有根據嗎？</title>
@@ -71,6 +85,13 @@
       <guid isPermaLink="true">https://aiprohunter.com/zh/blog/VoiceStudio/01-local-narration</guid>
     </item>
     <item>
+      <title>把 Hindsight 接進每週內容工作：從記憶到三則貼文</title>
+      <link>https://aiprohunter.com/zh/blog/Hindsight/08-hindsight-weekly-content-workflow</link>
+      <description>將每週三則社群貼文的資料收集、記憶查詢、草稿產生和人工審核整理成可複用流程。</description>
+      <pubDate>Wed, 09 Dec 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Hindsight/08-hindsight-weekly-content-workflow</guid>
+    </item>
+    <item>
       <title>HyperFrames 影片看起來卡卡的？先檢查這三個地方</title>
       <link>https://aiprohunter.com/zh/blog/HyperFrames/03-render-quality</link>
       <description>用同一片頭追字體載入、影格節奏和素材尺寸。</description>
@@ -90,6 +111,13 @@
       <description>以產品功能卡片動畫說明 HTML/CSS 到影片的路徑。</description>
       <pubDate>Mon, 07 Dec 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://aiprohunter.com/zh/blog/HyperFrames/01-html-to-video</guid>
+    </item>
+    <item>
+      <title>Knowledge Banks 怎麼用？共享規則與客戶私有資料的界線</title>
+      <link>https://aiprohunter.com/zh/blog/Hindsight/07-hindsight-knowledge-banks</link>
+      <description>用兩家咖啡店示例說明 Hindsight Knowledge Bank 的共享知識設計及實測範圍。</description>
+      <pubDate>Mon, 07 Dec 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Hindsight/07-hindsight-knowledge-banks</guid>
     </item>
     <item>
       <title>OpenMontage 幫你剪好後，還要查哪四件事？</title>
@@ -113,39 +141,11 @@
       <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenMontage/01-product-video-workflow</guid>
     </item>
     <item>
-      <title>Paperclip 值得用嗎？用一張表算省時、成本與接案回報</title>
-      <link>https://aiprohunter.com/zh/blog/Paperclip/10-paperclip-roi-decision</link>
-      <description>根據本站 Paperclip 小店貼文實測，區分模型執行時間、人工作業時間、訂閱與 API 花費，提供一般人可填寫的使用決策表。</description>
-      <pubDate>Fri, 04 Dec 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Paperclip/10-paperclip-roi-decision</guid>
-    </item>
-    <item>
-      <title>DeerFlow 說有沙盒，實際執行邊界在哪裡？</title>
-      <link>https://aiprohunter.com/zh/blog/DeerFlow/03-sandbox-boundary</link>
-      <description>沿著官方設定檢查工作目錄、網路與工具權限。</description>
-      <pubDate>Fri, 04 Dec 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/DeerFlow/03-sandbox-boundary</guid>
-    </item>
-    <item>
-      <title>Paperclip Skill 教學：把小店貼文驗收流程變成可重用清單</title>
-      <link>https://aiprohunter.com/zh/blog/Paperclip/09-paperclip-repeat-with-skills</link>
-      <description>本站在 Paperclip 建立並指派一份社群貼文驗收 Skill，實際重查三則補件稿；附 Skill 內容、介面截圖與重用限制。</description>
-      <pubDate>Thu, 03 Dec 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Paperclip/09-paperclip-repeat-with-skills</guid>
-    </item>
-    <item>
-      <title>用 DeerFlow 做一次工具研究：報告哪裡需要你回查？</title>
-      <link>https://aiprohunter.com/zh/blog/DeerFlow/02-verify-research-report</link>
-      <description>設計公開文件研究任務，逐步檢查搜尋結果、引用和漏項。</description>
-      <pubDate>Thu, 03 Dec 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/DeerFlow/02-verify-research-report</guid>
-    </item>
-    <item>
-      <title>研究任務一多，DeerFlow 會怎麼分工？</title>
-      <link>https://aiprohunter.com/zh/blog/DeerFlow/01-research-delegation</link>
-      <description>以整理三個開源工具為例，說明 lead agent、子任務與報告產出。</description>
-      <pubDate>Thu, 03 Dec 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/DeerFlow/01-research-delegation</guid>
+      <title>Observations 怎麼看？舊資訊與新更正同時存在的處理法</title>
+      <link>https://aiprohunter.com/zh/blog/Hindsight/06-hindsight-observations-pages</link>
+      <description>從本機實測的原始資料、萃取事實和觀察，學會處理互相衝突的新舊資訊。</description>
+      <pubDate>Sat, 05 Dec 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Hindsight/06-hindsight-observations-pages</guid>
     </item>
   </channel>
 </rss>
