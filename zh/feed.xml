@@ -113,11 +113,25 @@
       <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenMontage/01-product-video-workflow</guid>
     </item>
     <item>
+      <title>Paperclip 值得用嗎？用一張表算省時、成本與接案回報</title>
+      <link>https://aiprohunter.com/zh/blog/Paperclip/10-paperclip-roi-decision</link>
+      <description>根據本站 Paperclip 小店貼文實測，區分模型執行時間、人工作業時間、訂閱與 API 花費，提供一般人可填寫的使用決策表。</description>
+      <pubDate>Fri, 04 Dec 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Paperclip/10-paperclip-roi-decision</guid>
+    </item>
+    <item>
       <title>DeerFlow 說有沙盒，實際執行邊界在哪裡？</title>
       <link>https://aiprohunter.com/zh/blog/DeerFlow/03-sandbox-boundary</link>
       <description>沿著官方設定檢查工作目錄、網路與工具權限。</description>
       <pubDate>Fri, 04 Dec 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://aiprohunter.com/zh/blog/DeerFlow/03-sandbox-boundary</guid>
+    </item>
+    <item>
+      <title>Paperclip Skill 教學：把小店貼文驗收流程變成可重用清單</title>
+      <link>https://aiprohunter.com/zh/blog/Paperclip/09-paperclip-repeat-with-skills</link>
+      <description>本站在 Paperclip 建立並指派一份社群貼文驗收 Skill，實際重查三則補件稿；附 Skill 內容、介面截圖與重用限制。</description>
+      <pubDate>Thu, 03 Dec 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Paperclip/09-paperclip-repeat-with-skills</guid>
     </item>
     <item>
       <title>用 DeerFlow 做一次工具研究：報告哪裡需要你回查？</title>
@@ -132,20 +146,6 @@
       <description>以整理三個開源工具為例，說明 lead agent、子任務與報告產出。</description>
       <pubDate>Thu, 03 Dec 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://aiprohunter.com/zh/blog/DeerFlow/01-research-delegation</guid>
-    </item>
-    <item>
-      <title>Postiz 接 AI 產文後，哪一步一定要人來看？</title>
-      <link>https://aiprohunter.com/zh/blog/Postiz/03-ai-draft-review</link>
-      <description>拿 API 或 MCP 建立草稿的流程，標出引用、語氣、圖片與平台格式的驗收點。</description>
-      <pubDate>Wed, 02 Dec 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Postiz/03-ai-draft-review</guid>
-    </item>
-    <item>
-      <title>用 Postiz 排一週貼文：從草稿到預覽的實際步驟</title>
-      <link>https://aiprohunter.com/zh/blog/Postiz/02-weekly-schedule</link>
-      <description>示範連接測試平台、建立草稿、預覽與排程。</description>
-      <pubDate>Wed, 02 Dec 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Postiz/02-weekly-schedule</guid>
     </item>
   </channel>
 </rss>
