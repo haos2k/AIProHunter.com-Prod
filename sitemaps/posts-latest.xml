@@ -65,14 +65,6 @@
 <priority>0.8</priority>
 </url>
 <url>
-<loc>https://aiprohunter.com/zh/blog/Cline/03-ide-vs-cli</loc>
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Cline/03-ide-vs-cli" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Cline/03-ide-vs-cli" />
-<lastmod>2026-11-24T00:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
 <loc>https://aiprohunter.com/zh/blog/Orca/05-task-brief-and-handoff</loc>
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Orca/05-task-brief-and-handoff" />
 <xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Orca/05-task-brief-and-handoff" />
@@ -81,26 +73,10 @@
 <priority>0.8</priority>
 </url>
 <url>
-<loc>https://aiprohunter.com/zh/blog/Cline/02-first-bug-fix</loc>
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Cline/02-first-bug-fix" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Cline/02-first-bug-fix" />
-<lastmod>2026-11-23T00:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
 <loc>https://aiprohunter.com/zh/blog/Orca/04-first-agent-session</loc>
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Orca/04-first-agent-session" />
 <xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Orca/04-first-agent-session" />
 <lastmod>2026-11-23T00:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://aiprohunter.com/zh/blog/Cline/01-file-approval</loc>
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Cline/01-file-approval" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Cline/01-file-approval" />
-<lastmod>2026-11-22T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>

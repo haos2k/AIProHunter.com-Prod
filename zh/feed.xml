@@ -71,13 +71,6 @@
       <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Orca/05-task-brief-and-handoff</guid>
     </item>
     <item>
-      <title>Cline 有 IDE 和 CLI，哪一邊更適合你的任務？</title>
-      <link>https://aiprohunter.com/zh/blog/Cline/03-ide-vs-cli</link>
-      <description>用同一小任務比較兩種入口的操作、核准與輸出。</description>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Cline/03-ide-vs-cli</guid>
-    </item>
-    <item>
       <title>Orca 第一次 Agent Session：把一個小修改交出去並驗收</title>
       <link>https://aiprohunter.com/zh/blog/Orca/04-first-agent-session</link>
       <description>從選工作區、寫第一段指令到檢查 diff 和測試，學會在 Orca 控制第一個 agent 任務的範圍。</description>
@@ -85,25 +78,11 @@
       <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Orca/04-first-agent-session</guid>
     </item>
     <item>
-      <title>第一次用 Cline 修 bug：從重現問題到看懂 diff</title>
-      <link>https://aiprohunter.com/zh/blog/Cline/02-first-bug-fix</link>
-      <description>完整示範一個單檔錯誤的提問、修改和本地驗證。</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Cline/02-first-bug-fix</guid>
-    </item>
-    <item>
       <title>Orca Worktree 怎麼用？讓三項網站修改各有自己的分支與檔案</title>
       <link>https://aiprohunter.com/zh/blog/Orca/03-worktrees-and-branches</link>
       <description>以同一個起始 commit 建三個 Orca 工作區，實際驗證 Git 狀態隔離、合併順序與共用檔案的風險。</description>
       <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Orca/03-worktrees-and-branches</guid>
-    </item>
-    <item>
-      <title>Cline 幫你改程式前，會先碰哪些檔案？</title>
-      <link>https://aiprohunter.com/zh/blog/Cline/01-file-approval</link>
-      <description>以修一個可重現 bug 為例，追蹤它讀檔、提議修改與等待核准的節點。</description>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Cline/01-file-approval</guid>
     </item>
     <item>
       <title>Orca 安裝到第一個 Repo：先讓示範網站在本機跑起來</title>
@@ -146,6 +125,27 @@
       <description>Editorial Monocle、Modern Minimal、Tech Utility、Brutalist、Soft Warm——當使用者沒有 brand spec，Open Design 用這 5 個 curated 方向當 fallback。每個都是決定論的色票、字體、排版規格，避免 AI 自由發揮亂塗。</description>
       <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenDesign/07-five-visual-directions</guid>
+    </item>
+    <item>
+      <title>Open Design 的 71 套 Design Systems：DESIGN.md 九大區塊完整解析</title>
+      <link>https://aiprohunter.com/zh/blog/OpenDesign/06-design-systems</link>
+      <description>Linear、Stripe、Vercel、Notion、Apple、Cursor、Tesla 全部都在——Open Design 內建 71 套品牌級 design system。這篇拆 DESIGN.md 的 9 段式 schema 和切換邏輯，教你一份檔案改出公司專用的。</description>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenDesign/06-design-systems</guid>
+    </item>
+    <item>
+      <title>Open Design Skills 完全指南：19 個內建 skill 與如何加自己的</title>
+      <link>https://aiprohunter.com/zh/blog/OpenDesign/05-skills-system</link>
+      <description>SKILL.md + assets + references 三件套，讓 Open Design 的 19 個 skill 變成可組合的設計指令。這篇拆 frontmatter 的 od: 擴充欄位、template.html 怎麼被讀、checklist.md 的 P0/P1/P2 是什麼。</description>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenDesign/05-skills-system</guid>
+    </item>
+    <item>
+      <title>多專案模式：一個 CCManager 介面管所有 Repo</title>
+      <link>https://aiprohunter.com/zh/blog/CCManager/09-ccmanager-multi-project</link>
+      <description>用 --multi-project 模式讓 CCManager 跨 repo 管理 AI Agent——設定環境變數、瀏覽專案清單、在多個 repo 間切換。</description>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/CCManager/09-ccmanager-multi-project</guid>
     </item>
   </channel>
 </rss>
