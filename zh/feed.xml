@@ -22,9 +22,9 @@
       <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Orca/07-review-ai-diff</guid>
     </item>
     <item>
-      <title>Firecrawl 抓回來的資料能直接寫文章嗎？先做這道驗證</title>
+      <title>Firecrawl 抓到資料後怎麼驗證？以美術館開放時間做來源表</title>
       <link>https://aiprohunter.com/zh/blog/Firecrawl/03-verify-scraped-data</link>
-      <description>用產品功能表做示範，檢查日期、頁面來源與抽取錯誤。</description>
+      <description>實測擷取臺北市立美術館開放時間，將 API 文字、官方原頁與查核日期排成證據表，避免把過期資訊寫進指南。</description>
       <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Firecrawl/03-verify-scraped-data</guid>
     </item>
@@ -50,16 +50,16 @@
       <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Hindsight/01-memory-types</guid>
     </item>
     <item>
-      <title>要追一整個產品網站，用 Firecrawl 的 crawl 還是 map？</title>
+      <title>Firecrawl Map 與 Crawl 怎麼選？先盤點文件網址再決定抓取範圍</title>
       <link>https://aiprohunter.com/zh/blog/Firecrawl/02-crawl-vs-map</link>
-      <description>拿官方文件目錄做案例，比較找頁面與取全文兩個任務。</description>
+      <description>用開源文件站的盤點任務說明 Map 找網址、Crawl 取內容；附上免金鑰 Map 401 的實測限制與有額度時的重做步驟。</description>
       <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Firecrawl/02-crawl-vs-map</guid>
     </item>
     <item>
-      <title>網頁複製進 AI 前，Firecrawl 幫你清掉了什麼？</title>
+      <title>Firecrawl Scrape 實戰：把 SQLite 更新頁整理成可查核的 Markdown</title>
       <link>https://aiprohunter.com/zh/blog/Firecrawl/01-scrape-clean-content</link>
-      <description>以一頁產品文件示範 HTML、Markdown 與結構化輸出的差別。</description>
+      <description>用 SQLite 官方版本頁實測 Firecrawl Scrape，取得 Markdown、核對日期與版本，並指出擷取後仍需清理的區塊。</description>
       <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Firecrawl/01-scrape-clean-content</guid>
     </item>
