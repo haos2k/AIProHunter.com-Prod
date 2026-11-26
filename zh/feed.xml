@@ -8,144 +8,144 @@
     <atom:link href="https://aiprohunter.com/zh/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <item>
-      <title>Pipecat 做成客服前，插話和斷線要怎麼測？</title>
-      <link>https://aiprohunter.com/zh/blog/Pipecat/03-interruption-testing</link>
-      <description>以同一 FAQ bot 測打斷、沉默與連線重試。</description>
-      <pubDate>Mon, 14 Dec 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Pipecat/03-interruption-testing</guid>
+      <title>Paperclip 安裝教學：從一行指令到第一家公司</title>
+      <link>https://aiprohunter.com/zh/blog/Paperclip/04-paperclip-install-first-company</link>
+      <description>給初學者的 Paperclip 本機安裝流程：準備 Node.js 與模型登入、執行 onboard、建立公司，並用本站實測的資料庫啟動問題示範排查。</description>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Paperclip/04-paperclip-install-first-company</guid>
     </item>
     <item>
-      <title>用 Pipecat 做一個能說話的 FAQ：先跑通最小版本</title>
-      <link>https://aiprohunter.com/zh/blog/Pipecat/02-first-voice-faq</link>
-      <description>依官方 quickstart 建立瀏覽器語音問答，從密鑰到本地測試。</description>
-      <pubDate>Sun, 13 Dec 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Pipecat/02-first-voice-faq</guid>
+      <title>Orca Annotate AI Diff 怎麼審？用表單錯誤練習逐行退件</title>
+      <link>https://aiprohunter.com/zh/blog/Orca/07-review-ai-diff</link>
+      <description>用表單成功訊息案例演練 Orca 的逐行註記、批次送回與複驗流程，讓退件意見對準出錯的程式碼。</description>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Orca/07-review-ai-diff</guid>
     </item>
     <item>
-      <title>語音助理為什麼總慢半拍？Pipecat 把等待拆在哪裡</title>
-      <link>https://aiprohunter.com/zh/blog/Pipecat/01-voice-latency</link>
-      <description>用訂位問答的情境介紹 STT、模型、TTS 與傳輸。</description>
-      <pubDate>Sun, 13 Dec 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Pipecat/01-voice-latency</guid>
+      <title>Firecrawl 抓回來的資料能直接寫文章嗎？先做這道驗證</title>
+      <link>https://aiprohunter.com/zh/blog/Firecrawl/03-verify-scraped-data</link>
+      <description>用產品功能表做示範，檢查日期、頁面來源與抽取錯誤。</description>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Firecrawl/03-verify-scraped-data</guid>
     </item>
     <item>
-      <title>Hindsight 值得導入嗎？十篇實測後的時間與成本檢查</title>
-      <link>https://aiprohunter.com/zh/blog/Hindsight/10-hindsight-adoption-checklist</link>
-      <description>整理本機實測的模型耗時、tokens、人工修改需求，教讀者估算內容服務是否值得採用。</description>
-      <pubDate>Sun, 13 Dec 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Hindsight/10-hindsight-adoption-checklist</guid>
+      <title>Paperclip 是什麼？我用一家虛構小店跑出五張 AI 工單</title>
+      <link>https://aiprohunter.com/zh/blog/Paperclip/01-paperclip-task-visibility</link>
+      <description>從一家小店的社群貼文委託，看 Paperclip 如何分派研究、改稿與校對任務。附真實操作截圖、失敗紀錄，以及一般人是否值得使用的判斷法。</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Paperclip/01-paperclip-task-visibility</guid>
     </item>
     <item>
-      <title>Archify 的圖要分享給同事，怎麼避免下週就過期？</title>
-      <link>https://aiprohunter.com/zh/blog/Archify/03-keep-diagram-current</link>
-      <description>用一個 API 路徑改動做例子，示範重新生成與差異檢查。</description>
-      <pubDate>Sat, 12 Dec 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Archify/03-keep-diagram-current</guid>
+      <title>Orca 平行工作怎麼排？用依賴圖找出真正能省的等待時間</title>
+      <link>https://aiprohunter.com/zh/blog/Orca/06-parallel-worktrees</link>
+      <description>用咖啡店網站三項修改判斷哪些 Orca worktree 能並行、哪些必須排隊，並計算審查與合併後重測成本。</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Orca/06-parallel-worktrees</guid>
     </item>
     <item>
-      <title>AI 寫好就能發嗎？用 Hindsight 草稿做人工安全查核</title>
-      <link>https://aiprohunter.com/zh/blog/Hindsight/09-hindsight-human-review</link>
-      <description>以實際生成的錯誤貼文為例，逐句查核價格、供應日、營業時間和未批准促銷。</description>
-      <pubDate>Fri, 11 Dec 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Hindsight/09-hindsight-human-review</guid>
+      <title>Hindsight 是什麼？用小店每週貼文看懂 AI 長期記憶</title>
+      <link>https://aiprohunter.com/zh/blog/Hindsight/01-memory-types</link>
+      <description>用虛構青木咖啡的每週三則貼文委託，說明 Hindsight 可以記住什麼，附本機操作截圖與接案用途。</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Hindsight/01-memory-types</guid>
     </item>
     <item>
-      <title>用 Archify 畫一條登入流程：圖上每個箭頭有根據嗎？</title>
-      <link>https://aiprohunter.com/zh/blog/Archify/02-login-flow-diagram</link>
-      <description>示範提出繪圖範圍、檢查 JSON 結構、驗證後輸出。</description>
-      <pubDate>Fri, 11 Dec 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Archify/02-login-flow-diagram</guid>
+      <title>要追一整個產品網站，用 Firecrawl 的 crawl 還是 map？</title>
+      <link>https://aiprohunter.com/zh/blog/Firecrawl/02-crawl-vs-map</link>
+      <description>拿官方文件目錄做案例，比較找頁面與取全文兩個任務。</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Firecrawl/02-crawl-vs-map</guid>
     </item>
     <item>
-      <title>接手陌生程式庫，Archify 能先畫出哪張地圖？</title>
-      <link>https://aiprohunter.com/zh/blog/Archify/01-codebase-map</link>
-      <description>以一個小網站的請求路徑為例，介紹從程式碼到互動架構圖。</description>
-      <pubDate>Fri, 11 Dec 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Archify/01-codebase-map</guid>
+      <title>網頁複製進 AI 前，Firecrawl 幫你清掉了什麼？</title>
+      <link>https://aiprohunter.com/zh/blog/Firecrawl/01-scrape-clean-content</link>
+      <description>以一頁產品文件示範 HTML、Markdown 與結構化輸出的差別。</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Firecrawl/01-scrape-clean-content</guid>
     </item>
     <item>
-      <title>VoiceStudio 可以複製聲音，但這份授權先看清楚</title>
-      <link>https://aiprohunter.com/zh/blog/VoiceStudio/03-voice-license</link>
-      <description>用「替自己的課程配音」作案例，拆開應用授權、模型權重與聲音同意。</description>
-      <pubDate>Thu, 10 Dec 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/VoiceStudio/03-voice-license</guid>
+      <title>Orca 任務怎麼交給 Agent？三張可驗收的網站修改任務卡</title>
+      <link>https://aiprohunter.com/zh/blog/Orca/05-task-brief-and-handoff</link>
+      <description>把手機導覽、首頁文案與表單提示拆成清楚的 Orca agent 任務，避免 AI 自行猜促銷資訊或越界修改。</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Orca/05-task-brief-and-handoff</guid>
     </item>
     <item>
-      <title>用 VoiceStudio 試一段繁中旁白：先聽這三個地方</title>
-      <link>https://aiprohunter.com/zh/blog/VoiceStudio/02-traditional-chinese-test</link>
-      <description>示範用同一短稿測斷句、專有名詞和語速。</description>
-      <pubDate>Wed, 09 Dec 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/VoiceStudio/02-traditional-chinese-test</guid>
+      <title>Cline 有 IDE 和 CLI，哪一邊更適合你的任務？</title>
+      <link>https://aiprohunter.com/zh/blog/Cline/03-ide-vs-cli</link>
+      <description>用同一小任務比較兩種入口的操作、核准與輸出。</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Cline/03-ide-vs-cli</guid>
     </item>
     <item>
-      <title>想替教學影片配音，VoiceStudio 能把哪一步留在本機？</title>
-      <link>https://aiprohunter.com/zh/blog/VoiceStudio/01-local-narration</link>
-      <description>以一段 30 秒中文旁白為例介紹本機文字轉語音與輸出。</description>
-      <pubDate>Wed, 09 Dec 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/VoiceStudio/01-local-narration</guid>
+      <title>Orca 第一次 Agent Session：把一個小修改交出去並驗收</title>
+      <link>https://aiprohunter.com/zh/blog/Orca/04-first-agent-session</link>
+      <description>從選工作區、寫第一段指令到檢查 diff 和測試，學會在 Orca 控制第一個 agent 任務的範圍。</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Orca/04-first-agent-session</guid>
     </item>
     <item>
-      <title>把 Hindsight 接進每週內容工作：從記憶到三則貼文</title>
-      <link>https://aiprohunter.com/zh/blog/Hindsight/08-hindsight-weekly-content-workflow</link>
-      <description>將每週三則社群貼文的資料收集、記憶查詢、草稿產生和人工審核整理成可複用流程。</description>
-      <pubDate>Wed, 09 Dec 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Hindsight/08-hindsight-weekly-content-workflow</guid>
+      <title>第一次用 Cline 修 bug：從重現問題到看懂 diff</title>
+      <link>https://aiprohunter.com/zh/blog/Cline/02-first-bug-fix</link>
+      <description>完整示範一個單檔錯誤的提問、修改和本地驗證。</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Cline/02-first-bug-fix</guid>
     </item>
     <item>
-      <title>HyperFrames 影片看起來卡卡的？先檢查這三個地方</title>
-      <link>https://aiprohunter.com/zh/blog/HyperFrames/03-render-quality</link>
-      <description>用同一片頭追字體載入、影格節奏和素材尺寸。</description>
-      <pubDate>Tue, 08 Dec 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/HyperFrames/03-render-quality</guid>
+      <title>Orca Worktree 怎麼用？讓三項網站修改各有自己的分支與檔案</title>
+      <link>https://aiprohunter.com/zh/blog/Orca/03-worktrees-and-branches</link>
+      <description>以同一個起始 commit 建三個 Orca 工作區，實際驗證 Git 狀態隔離、合併順序與共用檔案的風險。</description>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Orca/03-worktrees-and-branches</guid>
     </item>
     <item>
-      <title>用 HyperFrames 做一支 15 秒產品片頭：從 HTML 到輸出</title>
-      <link>https://aiprohunter.com/zh/blog/HyperFrames/02-fifteen-second-intro</link>
-      <description>示範最小可運行範例、字體與動作設定，以及渲染後檢查。</description>
-      <pubDate>Tue, 08 Dec 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/HyperFrames/02-fifteen-second-intro</guid>
+      <title>Cline 幫你改程式前，會先碰哪些檔案？</title>
+      <link>https://aiprohunter.com/zh/blog/Cline/01-file-approval</link>
+      <description>以修一個可重現 bug 為例，追蹤它讀檔、提議修改與等待核准的節點。</description>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Cline/01-file-approval</guid>
     </item>
     <item>
-      <title>把網頁動畫直接做成影片？HyperFrames 的入口比想像簡單</title>
-      <link>https://aiprohunter.com/zh/blog/HyperFrames/01-html-to-video</link>
-      <description>以產品功能卡片動畫說明 HTML/CSS 到影片的路徑。</description>
-      <pubDate>Mon, 07 Dec 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/HyperFrames/01-html-to-video</guid>
+      <title>Orca 安裝到第一個 Repo：先讓示範網站在本機跑起來</title>
+      <link>https://aiprohunter.com/zh/blog/Orca/02-install-and-add-repo</link>
+      <description>從官方安裝頁、Git 倉庫、環境檢查到第一個可驗證的網站畫面，避免正式接案時才發現工作區缺檔。</description>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Orca/02-install-and-add-repo</guid>
     </item>
     <item>
-      <title>Knowledge Banks 怎麼用？共享規則與客戶私有資料的界線</title>
-      <link>https://aiprohunter.com/zh/blog/Hindsight/07-hindsight-knowledge-banks</link>
-      <description>用兩家咖啡店示例說明 Hindsight Knowledge Bank 的共享知識設計及實測範圍。</description>
-      <pubDate>Mon, 07 Dec 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Hindsight/07-hindsight-knowledge-banks</guid>
+      <title>Orca 是什麼？先判斷你的網站工作需不需要多個 AI 工作區</title>
+      <link>https://aiprohunter.com/zh/blog/Orca/01-orca-what-and-when</link>
+      <description>從一個咖啡店網站小案認識 Orca 的工作區、agent、瀏覽器與審查流程，附使用門檻和成本判斷表。</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Orca/01-orca-what-and-when</guid>
     </item>
     <item>
-      <title>OpenMontage 幫你剪好後，還要查哪四件事？</title>
-      <link>https://aiprohunter.com/zh/blog/OpenMontage/03-prepublish-checks</link>
-      <description>用同一短片檢查素材權利、配音、字幕和事實。</description>
-      <pubDate>Sun, 06 Dec 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenMontage/03-prepublish-checks</guid>
+      <title>Open Design 真實工作流：用 AI Agent 做提案簡報、Dashboard、App 原型</title>
+      <link>https://aiprohunter.com/zh/blog/OpenDesign/10-real-world-workflows</link>
+      <description>前 9 篇打底完，這篇直接套到三個真案子：seed round pitch deck、SaaS dashboard、mobile app onboarding。每個案子從打開 prompt 到 export 全程示範，讀完你能自己跑一輪。</description>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenDesign/10-real-world-workflows</guid>
     </item>
     <item>
-      <title>用 OpenMontage 做 30 秒工具短片：每一步會產出什麼？</title>
-      <link>https://aiprohunter.com/zh/blog/OpenMontage/02-thirty-second-demo</link>
-      <description>安排可複做的最小示範，列出輸入素材、配置、各階段輸出與最後驗收。</description>
-      <pubDate>Sun, 06 Dec 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenMontage/02-thirty-second-demo</guid>
+      <title>Open Design Prompt Stack 架構：作者說『這才是真正的產品』</title>
+      <link>https://aiprohunter.com/zh/blog/OpenDesign/09-prompt-stack</link>
+      <description>Open Design 作者直白寫下「prompt stack is the product」——這篇把六層架構（discovery、identity、DESIGN.md、SKILL.md、metadata、side files）逐層拆開，看它們在 send-time 怎麼疊。</description>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenDesign/09-prompt-stack</guid>
     </item>
     <item>
-      <title>一段產品介紹變影片，OpenMontage 先做的竟然是這件事</title>
-      <link>https://aiprohunter.com/zh/blog/OpenMontage/01-product-video-workflow</link>
-      <description>以 30 秒產品介紹為例走過研究、腳本、素材和剪輯。</description>
-      <pubDate>Sat, 05 Dec 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenMontage/01-product-video-workflow</guid>
+      <title>Open Design 反 AI-slop 機器：問題表格、五維自評、P0 閘門完整拆解</title>
+      <link>https://aiprohunter.com/zh/blog/OpenDesign/08-anti-ai-slop</link>
+      <description>為什麼 Open Design 的輸出比較不 slop？答案在「先發問再動手」「品牌規格五步驟」「emit 前五維自評」「P0 硬閘門」「slop 黑名單」這套機器裡——這篇逐條拆解。</description>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenDesign/08-anti-ai-slop</guid>
     </item>
     <item>
-      <title>Observations 怎麼看？舊資訊與新更正同時存在的處理法</title>
-      <link>https://aiprohunter.com/zh/blog/Hindsight/06-hindsight-observations-pages</link>
-      <description>從本機實測的原始資料、萃取事實和觀察，學會處理互相衝突的新舊資訊。</description>
-      <pubDate>Sat, 05 Dec 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Hindsight/06-hindsight-observations-pages</guid>
+      <title>Open Design 的五個視覺方向：客戶沒品牌時的決定論答案</title>
+      <link>https://aiprohunter.com/zh/blog/OpenDesign/07-five-visual-directions</link>
+      <description>Editorial Monocle、Modern Minimal、Tech Utility、Brutalist、Soft Warm——當使用者沒有 brand spec，Open Design 用這 5 個 curated 方向當 fallback。每個都是決定論的色票、字體、排版規格，避免 AI 自由發揮亂塗。</description>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenDesign/07-five-visual-directions</guid>
     </item>
   </channel>
 </rss>

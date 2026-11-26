@@ -9,6 +9,14 @@
 <priority>0.8</priority>
 </url>
 <url>
+<loc>https://aiprohunter.com/zh/blog/Orca/07-review-ai-diff</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Orca/07-review-ai-diff" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Orca/07-review-ai-diff" />
+<lastmod>2026-11-26T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
 <loc>https://aiprohunter.com/zh/blog/Paperclip/04-paperclip-install-first-company</loc>
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Paperclip/04-paperclip-install-first-company" />
 <xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Paperclip/04-paperclip-install-first-company" />
@@ -41,6 +49,14 @@
 <priority>0.8</priority>
 </url>
 <url>
+<loc>https://aiprohunter.com/zh/blog/Orca/06-parallel-worktrees</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Orca/06-parallel-worktrees" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Orca/06-parallel-worktrees" />
+<lastmod>2026-11-25T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
 <loc>https://aiprohunter.com/zh/blog/Paperclip/01-paperclip-task-visibility</loc>
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Paperclip/01-paperclip-task-visibility" />
 <xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Paperclip/01-paperclip-task-visibility" />
@@ -57,9 +73,25 @@
 <priority>0.8</priority>
 </url>
 <url>
+<loc>https://aiprohunter.com/zh/blog/Orca/05-task-brief-and-handoff</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Orca/05-task-brief-and-handoff" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Orca/05-task-brief-and-handoff" />
+<lastmod>2026-11-24T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
 <loc>https://aiprohunter.com/zh/blog/Cline/02-first-bug-fix</loc>
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Cline/02-first-bug-fix" />
 <xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Cline/02-first-bug-fix" />
+<lastmod>2026-11-23T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/Orca/04-first-agent-session</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Orca/04-first-agent-session" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Orca/04-first-agent-session" />
 <lastmod>2026-11-23T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
@@ -73,25 +105,25 @@
 <priority>0.8</priority>
 </url>
 <url>
-<loc>https://aiprohunter.com/zh/blog/Orca/02-agent-handoff</loc>
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Orca/02-agent-handoff" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Orca/02-agent-handoff" />
+<loc>https://aiprohunter.com/zh/blog/Orca/03-worktrees-and-branches</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Orca/03-worktrees-and-branches" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Orca/03-worktrees-and-branches" />
+<lastmod>2026-11-22T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/Orca/02-install-and-add-repo</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Orca/02-install-and-add-repo" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Orca/02-install-and-add-repo" />
 <lastmod>2026-11-21T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
 <url>
-<loc>https://aiprohunter.com/zh/blog/Orca/03-browser-preview</loc>
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Orca/03-browser-preview" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Orca/03-browser-preview" />
-<lastmod>2026-11-21T00:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://aiprohunter.com/zh/blog/Orca/01-isolated-worktrees</loc>
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Orca/01-isolated-worktrees" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Orca/01-isolated-worktrees" />
+<loc>https://aiprohunter.com/zh/blog/Orca/01-orca-what-and-when</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Orca/01-orca-what-and-when" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Orca/01-orca-what-and-when" />
 <lastmod>2026-11-20T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
