@@ -8,6 +8,34 @@
     <atom:link href="https://aiprohunter.com/zh/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <item>
+      <title>網站沒有 API，browser-use 可以替你做哪一步？</title>
+      <link>https://aiprohunter.com/zh/blog/browser-use/01-no-api-browser-task</link>
+      <description>拿公開定價頁的資料整理為例，解釋瀏覽器代理如何看頁面、操作和回報。</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/browser-use/01-no-api-browser-task</guid>
+    </item>
+    <item>
+      <title>Paperclip 第一張工單怎麼寫？用小店貼文實測一份可驗收範本</title>
+      <link>https://aiprohunter.com/zh/blog/Paperclip/02-paperclip-first-issue</link>
+      <description>用青木咖啡的三則貼文案例，示範如何在 Paperclip 寫清楚輸入、禁語、交付物與驗收條件，並看實際 agent 輸出和校對退稿。</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Paperclip/02-paperclip-first-issue</guid>
+    </item>
+    <item>
+      <title>Orca 工作區瀏覽器實戰：手機預覽、版本對照與錯版防線</title>
+      <link>https://aiprohunter.com/zh/blog/Orca/08-browser-preview</link>
+      <description>用兩個 Orca worktree 的真實瀏覽器畫面建立 390px 手機驗收表，避免把另一個分支的截圖交給客戶。</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Orca/08-browser-preview</guid>
+    </item>
+    <item>
+      <title>Retain、Recall、Reflect 實測：店家更正後 AI 記住了嗎？</title>
+      <link>https://aiprohunter.com/zh/blog/Hindsight/02-decision-recall</link>
+      <description>實際寫入兩週店家資料，測試 Hindsight 的 retain、recall 與 reflect，以及更正資訊仍可能出錯的地方。</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Hindsight/02-decision-recall</guid>
+    </item>
+    <item>
       <title>Paperclip 安裝教學：從一行指令到第一家公司</title>
       <link>https://aiprohunter.com/zh/blog/Paperclip/04-paperclip-install-first-company</link>
       <description>給初學者的 Paperclip 本機安裝流程：準備 Node.js 與模型登入、執行 onboard、建立公司，並用本站實測的資料庫啟動問題示範排查。</description>
@@ -118,34 +146,6 @@
       <description>為什麼 Open Design 的輸出比較不 slop？答案在「先發問再動手」「品牌規格五步驟」「emit 前五維自評」「P0 硬閘門」「slop 黑名單」這套機器裡——這篇逐條拆解。</description>
       <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenDesign/08-anti-ai-slop</guid>
-    </item>
-    <item>
-      <title>Open Design 的五個視覺方向：客戶沒品牌時的決定論答案</title>
-      <link>https://aiprohunter.com/zh/blog/OpenDesign/07-five-visual-directions</link>
-      <description>Editorial Monocle、Modern Minimal、Tech Utility、Brutalist、Soft Warm——當使用者沒有 brand spec，Open Design 用這 5 個 curated 方向當 fallback。每個都是決定論的色票、字體、排版規格，避免 AI 自由發揮亂塗。</description>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenDesign/07-five-visual-directions</guid>
-    </item>
-    <item>
-      <title>Open Design 的 71 套 Design Systems：DESIGN.md 九大區塊完整解析</title>
-      <link>https://aiprohunter.com/zh/blog/OpenDesign/06-design-systems</link>
-      <description>Linear、Stripe、Vercel、Notion、Apple、Cursor、Tesla 全部都在——Open Design 內建 71 套品牌級 design system。這篇拆 DESIGN.md 的 9 段式 schema 和切換邏輯，教你一份檔案改出公司專用的。</description>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenDesign/06-design-systems</guid>
-    </item>
-    <item>
-      <title>Open Design Skills 完全指南：19 個內建 skill 與如何加自己的</title>
-      <link>https://aiprohunter.com/zh/blog/OpenDesign/05-skills-system</link>
-      <description>SKILL.md + assets + references 三件套，讓 Open Design 的 19 個 skill 變成可組合的設計指令。這篇拆 frontmatter 的 od: 擴充欄位、template.html 怎麼被讀、checklist.md 的 P0/P1/P2 是什麼。</description>
-      <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenDesign/05-skills-system</guid>
-    </item>
-    <item>
-      <title>多專案模式：一個 CCManager 介面管所有 Repo</title>
-      <link>https://aiprohunter.com/zh/blog/CCManager/09-ccmanager-multi-project</link>
-      <description>用 --multi-project 模式讓 CCManager 跨 repo 管理 AI Agent——設定環境變數、瀏覽專案清單、在多個 repo 間切換。</description>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/CCManager/09-ccmanager-multi-project</guid>
     </item>
   </channel>
 </rss>
