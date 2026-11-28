@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 <url>
+<loc>https://aiprohunter.com/zh/blog/browser-use/02-first-python-task</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/browser-use/02-first-python-task" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/browser-use/02-first-python-task" />
+<lastmod>2026-11-28T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/browser-use/03-logged-in-boundary</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/browser-use/03-logged-in-boundary" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/browser-use/03-logged-in-boundary" />
+<lastmod>2026-11-28T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/Orca/09-cli-skills-automation</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Orca/09-cli-skills-automation" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Orca/09-cli-skills-automation" />
+<lastmod>2026-11-28T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aiprohunter.com/zh/blog/Paperclip/05-paperclip-first-agent</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Paperclip/05-paperclip-first-agent" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Paperclip/05-paperclip-first-agent" />
+<lastmod>2026-11-28T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
 <loc>https://aiprohunter.com/zh/blog/browser-use/01-no-api-browser-task</loc>
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/browser-use/01-no-api-browser-task" />
 <xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/browser-use/01-no-api-browser-task" />
@@ -117,14 +149,6 @@
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Orca/03-worktrees-and-branches" />
 <xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Orca/03-worktrees-and-branches" />
 <lastmod>2026-11-22T00:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://aiprohunter.com/zh/blog/Orca/02-install-and-add-repo</loc>
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aiprohunter.com/zh/blog/Orca/02-install-and-add-repo" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aiprohunter.com/zh/blog/Orca/02-install-and-add-repo" />
-<lastmod>2026-11-21T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>

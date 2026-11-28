@@ -8,6 +8,34 @@
     <atom:link href="https://aiprohunter.com/zh/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <item>
+      <title>browser-use 要碰登入頁面？先畫出這條權限界線</title>
+      <link>https://aiprohunter.com/zh/blog/browser-use/03-logged-in-boundary</link>
+      <description>用測試帳號情境說明連接瀏覽器、憑證與人工確認點。</description>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/browser-use/03-logged-in-boundary</guid>
+    </item>
+    <item>
+      <title>用 browser-use 跑一次網頁任務：讓它找資料，自己驗收</title>
+      <link>https://aiprohunter.com/zh/blog/browser-use/02-first-python-task</link>
+      <description>給出最小 Python 範例，從設定任務到檢查輸出。</description>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/browser-use/02-first-python-task</guid>
+    </item>
+    <item>
+      <title>Paperclip 第一個 agent 怎麼設？角色、Codex 連線與首次執行</title>
+      <link>https://aiprohunter.com/zh/blog/Paperclip/05-paperclip-first-agent</link>
+      <description>從小店內容案例學會建立 Paperclip agent、選 Codex adapter、看執行紀錄，並處理模型不支援與工單狀態沒有更新的實際問題。</description>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Paperclip/05-paperclip-first-agent</guid>
+    </item>
+    <item>
+      <title>Orca CLI 與自動化入門：先建一個停用的網站檢查排程</title>
+      <link>https://aiprohunter.com/zh/blog/Orca/09-cli-skills-automation</link>
+      <description>用 Orca CLI 建立、查看並移除停用的檢查排程，理解 Skills、MCP 與定期工作何時能省時間。</description>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Orca/09-cli-skills-automation</guid>
+    </item>
+    <item>
       <title>網站沒有 API，browser-use 可以替你做哪一步？</title>
       <link>https://aiprohunter.com/zh/blog/browser-use/01-no-api-browser-task</link>
       <description>拿公開定價頁的資料整理為例，解釋瀏覽器代理如何看頁面、操作和回報。</description>
@@ -118,34 +146,6 @@
       <description>從官方安裝頁、Git 倉庫、環境檢查到第一個可驗證的網站畫面，避免正式接案時才發現工作區缺檔。</description>
       <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Orca/02-install-and-add-repo</guid>
-    </item>
-    <item>
-      <title>Orca 是什麼？先判斷你的網站工作需不需要多個 AI 工作區</title>
-      <link>https://aiprohunter.com/zh/blog/Orca/01-orca-what-and-when</link>
-      <description>從一個咖啡店網站小案認識 Orca 的工作區、agent、瀏覽器與審查流程，附使用門檻和成本判斷表。</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/Orca/01-orca-what-and-when</guid>
-    </item>
-    <item>
-      <title>Open Design 真實工作流：用 AI Agent 做提案簡報、Dashboard、App 原型</title>
-      <link>https://aiprohunter.com/zh/blog/OpenDesign/10-real-world-workflows</link>
-      <description>前 9 篇打底完，這篇直接套到三個真案子：seed round pitch deck、SaaS dashboard、mobile app onboarding。每個案子從打開 prompt 到 export 全程示範，讀完你能自己跑一輪。</description>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenDesign/10-real-world-workflows</guid>
-    </item>
-    <item>
-      <title>Open Design Prompt Stack 架構：作者說『這才是真正的產品』</title>
-      <link>https://aiprohunter.com/zh/blog/OpenDesign/09-prompt-stack</link>
-      <description>Open Design 作者直白寫下「prompt stack is the product」——這篇把六層架構（discovery、identity、DESIGN.md、SKILL.md、metadata、side files）逐層拆開，看它們在 send-time 怎麼疊。</description>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenDesign/09-prompt-stack</guid>
-    </item>
-    <item>
-      <title>Open Design 反 AI-slop 機器：問題表格、五維自評、P0 閘門完整拆解</title>
-      <link>https://aiprohunter.com/zh/blog/OpenDesign/08-anti-ai-slop</link>
-      <description>為什麼 Open Design 的輸出比較不 slop？答案在「先發問再動手」「品牌規格五步驟」「emit 前五維自評」「P0 硬閘門」「slop 黑名單」這套機器裡——這篇逐條拆解。</description>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aiprohunter.com/zh/blog/OpenDesign/08-anti-ai-slop</guid>
     </item>
   </channel>
 </rss>
